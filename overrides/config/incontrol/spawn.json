@@ -1,0 +1,13 @@
+[
+    {
+      "dimension": 10,
+      "mob": "thesummoner:summoner",
+      "block": "iceandfire:dragon_bone_block",
+      "result": "allow"
+    },
+    {
+      "dimension": 10,
+      "mob": "thesummoner:summoner",
+      "result": "false"
+    }
+  ]

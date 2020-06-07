@@ -1,0 +1,14 @@
+[
+    {
+        "dimension": 10,
+        "block": "iceandfire:dragon_bone_block",
+        "mobs": [
+            {
+                "mob": "thesummoner:summoner",
+                "weight": 10,
+                "groupcountmin": 1,
+                "groupcountmax": 1
+            }
+        ]
+    }
+]

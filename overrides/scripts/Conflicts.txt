@@ -1,0 +1,674 @@
+Conflicting: 673
+[iceandfire:silver_ingot_to_nuggets](Silver Nugget) <iceandfire:silver_nugget:0> * 9 conflicts with [bewitchment:silver_nugget](Silver Nugget) <bewitchment:silver_nugget:0> * 9
+[iceandfire:silver_ingot_to_nuggets](Silver Nugget) <iceandfire:silver_nugget:0> * 9 conflicts with [dungeontactics:misc/silver_nugget](Silver Nugget) <dungeontactics:silver_nugget:0> * 9
+[iceandfire:silver_ingot_to_nuggets](Silver Nugget) <iceandfire:silver_nugget:0> * 9 conflicts with [immersiveengineering:metal_storage/silver_ingot_uncraft](Silver Nugget) <immersiveengineering:metal:23> * 9
+[iceandfire:silver_ingot_to_nuggets](Silver Nugget) <iceandfire:silver_nugget:0> * 9 conflicts with [thermalfoundation:material_12](Silver Nugget) <thermalfoundation:material:194> * 9
+[iceandfire:silver_ingot_to_nuggets](Silver Nugget) <iceandfire:silver_nugget:0> * 9 conflicts with [unidict:nuggetsilver_x9_size.1](Silver Nugget) <thermalfoundation:material:194> * 9
+[iceandfire:silver_block_to_ingots](Silver Ingot) <iceandfire:silver_ingot:0> * 9 conflicts with [bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9
+[iceandfire:silver_block_to_ingots](Silver Ingot) <iceandfire:silver_ingot:0> * 9 conflicts with [dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9
+[iceandfire:silver_block_to_ingots](Silver Ingot) <iceandfire:silver_ingot:0> * 9 conflicts with [thermalfoundation:material_43](Silver Ingot) <thermalfoundation:material:130> * 9
+[iceandfire:silver_block_to_ingots](Silver Ingot) <iceandfire:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_19](Silver Ingot) <thermalfoundation:material:130> * 9
+[iceandfire:silver_block_to_ingots](Silver Ingot) <iceandfire:silver_ingot:0> * 9 conflicts with [unidict:ingotsilver_x9_size.1](Silver Ingot) <thermalfoundation:material:130> * 9
+[iceandfire:sapphire_block_to_stones](Sapphire) <iceandfire:sapphire_gem:0> * 9 conflicts with [biomesoplenty:sapphire](Sapphire) <biomesoplenty:gem:6> * 9
+[bewitchment:silver_nugget](Silver Nugget) <bewitchment:silver_nugget:0> * 9 conflicts with [dungeontactics:misc/silver_nugget](Silver Nugget) <dungeontactics:silver_nugget:0> * 9
+[bewitchment:silver_nugget](Silver Nugget) <bewitchment:silver_nugget:0> * 9 conflicts with [immersiveengineering:metal_storage/silver_ingot_uncraft](Silver Nugget) <immersiveengineering:metal:23> * 9
+[bewitchment:silver_nugget](Silver Nugget) <bewitchment:silver_nugget:0> * 9 conflicts with [thermalfoundation:material_12](Silver Nugget) <thermalfoundation:material:194> * 9
+[bewitchment:silver_nugget](Silver Nugget) <bewitchment:silver_nugget:0> * 9 conflicts with [unidict:nuggetsilver_x9_size.1](Silver Nugget) <thermalfoundation:material:194> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [immersiveengineering:metal_storage/silver_block_uncraft](Silver Ingot) <immersiveengineering:metal:3> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [thermalfoundation:material_43](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_1](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_2](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_3](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_4](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_5](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_6](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_7](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_8](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_9](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_10](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_11](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_12](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_13](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_14](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_15](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_16](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_17](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_18](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_19](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_20](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_silver_to_resource](Silver Ingot) <bewitchment:silver_ingot:0> * 9 conflicts with [unidict:ingotsilver_x9_size.1](Silver Ingot) <thermalfoundation:material:130> * 9
+[bewitchment:block_of_amethyst_to_resource](Amethyst) <bewitchment:amethyst:0> * 9 conflicts with [biomesoplenty:amethyst](Ender Amethyst) <biomesoplenty:gem:0> * 9
+[dungeontactics:misc/steel_nugget](Steel Nugget) <dungeontactics:steel_nugget:0> * 9 conflicts with [immersiveengineering:metal_storage/steel_ingot_uncraft](Steel Nugget) <immersiveengineering:metal:28> * 9
+[dungeontactics:misc/steel_nugget](Steel Nugget) <dungeontactics:steel_nugget:0> * 9 conflicts with [thermalfoundation:material_26](Steel Nugget) <thermalfoundation:material:224> * 9
+[dungeontactics:misc/steel_nugget](Steel Nugget) <dungeontactics:steel_nugget:0> * 9 conflicts with [unidict:nuggetsteel_x9_size.1](Steel Nugget) <thermalfoundation:material:224> * 9
+[dungeontactics:misc/steel_ingot_from_blocks](Steel Ingot) <dungeontactics:steel_ingot:0> * 9 conflicts with [bigreactors:ingot_steel](Steel Ingot) <bigreactors:ingotsteel:0> * 9
+[dungeontactics:misc/steel_ingot_from_blocks](Steel Ingot) <dungeontactics:steel_ingot:0> * 9 conflicts with [immersiveengineering:metal_storage/steel_block_uncraft](Steel Ingot) <immersiveengineering:metal:8> * 9
+[dungeontactics:misc/steel_ingot_from_blocks](Steel Ingot) <dungeontactics:steel_ingot:0> * 9 conflicts with [thermalfoundation:material_50](Steel Ingot) <thermalfoundation:material:160> * 9
+[dungeontactics:misc/steel_ingot_from_blocks](Steel Ingot) <dungeontactics:steel_ingot:0> * 9 conflicts with [unidict:ingotsteel_x9_size.1](Steel Ingot) <thermalfoundation:material:160> * 9
+[dungeontactics:misc/silver_nugget](Silver Nugget) <dungeontactics:silver_nugget:0> * 9 conflicts with [immersiveengineering:metal_storage/silver_ingot_uncraft](Silver Nugget) <immersiveengineering:metal:23> * 9
+[dungeontactics:misc/silver_nugget](Silver Nugget) <dungeontactics:silver_nugget:0> * 9 conflicts with [thermalfoundation:material_12](Silver Nugget) <thermalfoundation:material:194> * 9
+[dungeontactics:misc/silver_nugget](Silver Nugget) <dungeontactics:silver_nugget:0> * 9 conflicts with [unidict:nuggetsilver_x9_size.1](Silver Nugget) <thermalfoundation:material:194> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [immersiveengineering:metal_storage/silver_block_uncraft](Silver Ingot) <immersiveengineering:metal:3> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [thermalfoundation:material_43](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_1](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_2](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_3](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_4](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_5](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_6](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_7](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_8](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_9](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_10](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_11](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_12](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_13](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_14](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_15](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_16](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_17](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_18](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_19](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_20](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/silver_ingot_from_blocks](Silver Ingot) <dungeontactics:silver_ingot:0> * 9 conflicts with [unidict:ingotsilver_x9_size.1](Silver Ingot) <thermalfoundation:material:130> * 9
+[dungeontactics:misc/mithril_nugget](Mithril Nugget) <dungeontactics:mithril_nugget:0> * 9 conflicts with [thermalfoundation:material_24](Mana Infused Nugget) <thermalfoundation:material:200> * 9
+[dungeontactics:misc/mithril_ingot_from_blocks](Mithril Ingot) <dungeontactics:mithril_ingot:0> * 9 conflicts with [thermalfoundation:material_49](Mana Infused Ingot) <thermalfoundation:material:136> * 9
+[dungeontactics:misc/cut_diamond](Cut Diamond) <dungeontactics:diamond_nugget:0> * 9 conflicts with [extrabitmanipulation:diamond_nuggets](Diamond Nugget) <extrabitmanipulation:diamond_nugget:0> * 9
+[dungeontactics:misc/cut_diamond](Cut Diamond) <dungeontactics:diamond_nugget:0> * 9 conflicts with [inventorypets:nugget_diamond](Diamond Nugget) <inventorypets:nugget_diamond:0> * 9
+[dungeontactics:misc/cut_diamond](Cut Diamond) <dungeontactics:diamond_nugget:0> * 9 conflicts with [thermalfoundation:material_5](Diamond Nugget) <thermalfoundation:material:16> * 9
+[dungeontactics:misc/bread_slice](Slice of Bread) <dungeontactics:bread_slice:0> * 8 conflicts with [actuallyadditions:recipes241](Toast) <actuallyadditions:item_food:10> * 2
+[extrabitmanipulation:diamond_nuggets](Diamond Nugget) <extrabitmanipulation:diamond_nugget:0> * 9 conflicts with [inventorypets:nugget_diamond](Diamond Nugget) <inventorypets:nugget_diamond:0> * 9
+[extrabitmanipulation:diamond_nuggets](Diamond Nugget) <extrabitmanipulation:diamond_nugget:0> * 9 conflicts with [thermalfoundation:material_5](Diamond Nugget) <thermalfoundation:material:16> * 9
+[bigreactors:ingot_steel](Steel Ingot) <bigreactors:ingotsteel:0> * 9 conflicts with [thermalfoundation:material_50](Steel Ingot) <thermalfoundation:material:160> * 9
+[bigreactors:ingot_steel](Steel Ingot) <bigreactors:ingotsteel:0> * 9 conflicts with [unidict:ingotsteel_x9_size.1](Steel Ingot) <thermalfoundation:material:160> * 9
+[bigreactors:ingot_graphite](Graphite Bar) <bigreactors:ingotgraphite:0> * 9 conflicts with [nuclearcraft:item.nuclearcraft.ingot.graphite_1](Graphite Ingot) <nuclearcraft:ingot:8> * 9
+[galacticraftplanets:carbon_fragments_alt_alt](Fragmented Carbon) <galacticraftplanets:carbon_fragments:0> * 4 conflicts with [actuallyadditions:recipes54](Tiny Charcoal) <actuallyadditions:item_misc:11> * 8
+[immersiveengineering:stone_decoration/cokeblock_uncraft](Coal Coke) <immersiveengineering:material:6> * 9 conflicts with [thermalfoundation:material_58](Coal Coke) <thermalfoundation:material:802> * 9
+[immersiveengineering:metal_storage/uranium_block_uncraft](Uranium Ingot) <immersiveengineering:metal:5> * 9 conflicts with [nuclearcraft:item.nuclearcraft.ingot.uranium_8](Uranium Ingot) <nuclearcraft:ingot:4> * 9
+[immersiveengineering:metal_storage/steel_ingot_uncraft](Steel Nugget) <immersiveengineering:metal:28> * 9 conflicts with [thermalfoundation:material_26](Steel Nugget) <thermalfoundation:material:224> * 9
+[immersiveengineering:metal_storage/steel_ingot_uncraft](Steel Nugget) <immersiveengineering:metal:28> * 9 conflicts with [unidict:nuggetsteel_x9_size.1](Steel Nugget) <thermalfoundation:material:224> * 9
+[immersiveengineering:metal_storage/steel_block_uncraft](Steel Ingot) <immersiveengineering:metal:8> * 9 conflicts with [thermalfoundation:material_50](Steel Ingot) <thermalfoundation:material:160> * 9
+[immersiveengineering:metal_storage/steel_block_uncraft](Steel Ingot) <immersiveengineering:metal:8> * 9 conflicts with [unidict:ingotsteel_x9_size.1](Steel Ingot) <thermalfoundation:material:160> * 9
+[immersiveengineering:metal_storage/silver_ingot_uncraft](Silver Nugget) <immersiveengineering:metal:23> * 9 conflicts with [thermalfoundation:material_12](Silver Nugget) <thermalfoundation:material:194> * 9
+[immersiveengineering:metal_storage/silver_ingot_uncraft](Silver Nugget) <immersiveengineering:metal:23> * 9 conflicts with [unidict:nuggetsilver_x9_size.1](Silver Nugget) <thermalfoundation:material:194> * 9
+[immersiveengineering:metal_storage/silver_block_uncraft](Silver Ingot) <immersiveengineering:metal:3> * 9 conflicts with [thermalfoundation:material_43](Silver Ingot) <thermalfoundation:material:130> * 9
+[immersiveengineering:metal_storage/silver_block_uncraft](Silver Ingot) <immersiveengineering:metal:3> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotsilver_20](Silver Ingot) <thermalfoundation:material:130> * 9
+[immersiveengineering:metal_storage/silver_block_uncraft](Silver Ingot) <immersiveengineering:metal:3> * 9 conflicts with [unidict:ingotsilver_x9_size.1](Silver Ingot) <thermalfoundation:material:130> * 9
+[immersiveengineering:metal_storage/nickel_ingot_uncraft](Nickel Nugget) <immersiveengineering:metal:24> * 9 conflicts with [thermalfoundation:material_18](Nickel Nugget) <thermalfoundation:material:197> * 9
+[immersiveengineering:metal_storage/nickel_block_uncraft](Nickel Ingot) <immersiveengineering:metal:4> * 9 conflicts with [thermalfoundation:material_46](Nickel Ingot) <thermalfoundation:material:133> * 9
+[immersiveengineering:metal_storage/nickel_block_uncraft](Nickel Ingot) <immersiveengineering:metal:4> * 9 conflicts with [unidict:ingotnickel_x9_size.1](Nickel Ingot) <thermalfoundation:material:133> * 9
+[immersiveengineering:metal_storage/lead_ingot_uncraft](Lead Nugget) <immersiveengineering:metal:22> * 9 conflicts with [thermalfoundation:material_14](Lead Nugget) <thermalfoundation:material:195> * 9
+[immersiveengineering:metal_storage/lead_ingot_uncraft](Lead Nugget) <immersiveengineering:metal:22> * 9 conflicts with [unidict:nuggetlead_x9_size.1](Lead Nugget) <thermalfoundation:material:195> * 9
+[immersiveengineering:metal_storage/lead_block_uncraft](Lead Ingot) <immersiveengineering:metal:2> * 9 conflicts with [thermalfoundation:material_44](Lead Ingot) <thermalfoundation:material:131> * 9
+[immersiveengineering:metal_storage/lead_block_uncraft](Lead Ingot) <immersiveengineering:metal:2> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotlead_8](Lead Ingot) <thermalfoundation:material:131> * 9
+[immersiveengineering:metal_storage/lead_block_uncraft](Lead Ingot) <immersiveengineering:metal:2> * 9 conflicts with [unidict:ingotlead_x9_size.1](Lead Ingot) <thermalfoundation:material:131> * 9
+[immersiveengineering:metal_storage/electrum_ingot_uncraft](Electrum Nugget) <immersiveengineering:metal:27> * 9 conflicts with [thermalfoundation:material_28](Electrum Nugget) <thermalfoundation:material:225> * 9
+[immersiveengineering:metal_storage/electrum_block_uncraft](Electrum Ingot) <immersiveengineering:metal:7> * 9 conflicts with [thermalfoundation:material_51](Electrum Ingot) <thermalfoundation:material:161> * 9
+[immersiveengineering:metal_storage/electrum_block_uncraft](Electrum Ingot) <immersiveengineering:metal:7> * 9 conflicts with [unidict:ingotelectrum_x9_size.1](Electrum Ingot) <thermalfoundation:material:161> * 9
+[immersiveengineering:metal_storage/copper_ingot_uncraft](Copper Nugget) <immersiveengineering:metal:20> * 9 conflicts with [thermalfoundation:material_8](Copper Nugget) <thermalfoundation:material:192> * 9
+[immersiveengineering:metal_storage/copper_ingot_uncraft](Copper Nugget) <immersiveengineering:metal:20> * 9 conflicts with [unidict:nuggetcopper_x9_size.1](Copper Nugget) <thermalfoundation:material:192> * 9
+[immersiveengineering:metal_storage/copper_block_uncraft](Copper Ingot) <immersiveengineering:metal:0> * 9 conflicts with [thermalfoundation:material_41](Copper Ingot) <thermalfoundation:material:128> * 9
+[immersiveengineering:metal_storage/copper_block_uncraft](Copper Ingot) <immersiveengineering:metal:0> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotcopper_11](Copper Ingot) <thermalfoundation:material:128> * 9
+[immersiveengineering:metal_storage/copper_block_uncraft](Copper Ingot) <immersiveengineering:metal:0> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[immersiveengineering:metal_storage/copper_block_uncraft](Copper Ingot) <immersiveengineering:metal:0> * 9 conflicts with [unidict:ingotcopper_x9_size.1](Copper Ingot) <thermalfoundation:material:128> * 9
+[immersiveengineering:metal_storage/constantan_ingot_uncraft](Constantan Nugget) <immersiveengineering:metal:26> * 9 conflicts with [thermalfoundation:material_34](Constantan Nugget) <thermalfoundation:material:228> * 9
+[immersiveengineering:metal_storage/constantan_block_uncraft](Constantan Ingot) <immersiveengineering:metal:6> * 9 conflicts with [thermalfoundation:material_54](Constantan Ingot) <thermalfoundation:material:164> * 9
+[immersiveengineering:metal_storage/aluminum_ingot_uncraft](Aluminium Nugget) <immersiveengineering:metal:21> * 9 conflicts with [thermalfoundation:material_16](Aluminum Nugget) <thermalfoundation:material:196> * 9
+[immersiveengineering:metal_storage/aluminum_block_uncraft](Aluminium Ingot) <immersiveengineering:metal:1> * 9 conflicts with [thermalfoundation:material_45](Aluminum Ingot) <thermalfoundation:material:132> * 9
+[immersiveengineering:metal_storage/aluminum_block_uncraft](Aluminium Ingot) <immersiveengineering:metal:1> * 9 conflicts with [nuclearcraft:item.thermalfoundation.material.ingotaluminum_10](Aluminum Ingot) <thermalfoundation:material:132> * 9
+[immersiveengineering:metal_storage/aluminum_block_uncraft](Aluminium Ingot) <immersiveengineering:metal:1> * 9 conflicts with [unidict:ingotaluminium_x9_size.1](Aluminum Ingot) <thermalfoundation:material:132> * 9
+[inventorypets:nugget_diamond](Diamond Nugget) <inventorypets:nugget_diamond:0> * 9 conflicts with [thermalfoundation:material_5](Diamond Nugget) <thermalfoundation:material:16> * 9
+[inventorypets:nugget_lapis](Lapis Nugget) <inventorypets:nugget_lapis:0> * 9 conflicts with [jaopca:item_nuggetlapis_1dvtbg](Lapis Lazuli Nugget) <jaopca:item_nuggetlapis:0> * 9
+[inventorypets:nugget_emerald](Emerald Nugget) <inventorypets:nugget_emerald:0> * 9 conflicts with [thermalfoundation:material_6](Emerald Nugget) <thermalfoundation:material:17> * 9
+[inventorypets:nugget_coal](Coal Nugget) <inventorypets:nugget_coal:0> * 8 conflicts with [actuallyadditions:recipes53](Tiny Coal) <actuallyadditions:item_misc:10> * 8
+[inventorypets:nugget_coal](Coal Nugget) <inventorypets:nugget_coal:0> * 8 conflicts with [jaopca:item_nuggetcoal_7y63g2](Coal Nugget) <jaopca:item_nuggetcoal:0> * 9
+[harvestcraft:cottonseeditem](Cotton Seed) <harvestcraft:cottonseeditem:0> * 1 conflicts with [harvestcraft:cottonitem](Cotton) <harvestcraft:cottonitem:0> * 1
+[actuallyadditions:recipes53](Tiny Coal) <actuallyadditions:item_misc:10> * 8 conflicts with [jaopca:item_nuggetcoal_7y63g2](Coal Nugget) <jaopca:item_nuggetcoal:0> * 9
+[thermalfoundation:material_41](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[thermalfoundation:material_42](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[thermalfoundation:material_53](Bronze Ingot) <thermalfoundation:material:163> * 9 conflicts with [forestry:block_to_bronze](Bronze Ingot) <forestry:ingot_bronze:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_1](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_2](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_3](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_4](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_5](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_6](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_7](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_8](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_9](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_10](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingotcopper_11](Copper Ingot) <thermalfoundation:material:128> * 9 conflicts with [forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_1](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_2](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_3](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_4](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_5](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_6](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_7](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_8](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_9](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.thermalfoundation.material.ingottin_10](Tin Ingot) <thermalfoundation:material:129> * 9 conflicts with [forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium_1](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium_2](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium_3](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium_4](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium_5](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium_6](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium_7](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[nuclearcraft:item.nuclearcraft.ingot.uranium_8](Uranium Ingot) <nuclearcraft:ingot:4> * 9 conflicts with [unidict:ingoturanium_x9_size.1](Uranium Ingot) <immersiveengineering:metal:5> * 9
+[forestry:block_to_copper](Copper Ingot) <forestry:ingot_copper:0> * 9 conflicts with [unidict:ingotcopper_x9_size.1](Copper Ingot) <thermalfoundation:material:128> * 9
+[forestry:block_to_tin](Tin Ingot) <forestry:ingot_tin:0> * 9 conflicts with [unidict:ingottin_x9_size.1](Tin Ingot) <thermalfoundation:material:129> * 9
+[forestry:block_to_bronze](Bronze Ingot) <forestry:ingot_bronze:0> * 9 conflicts with [unidict:ingotbronze_x9_size.1](Bronze Ingot) <thermalfoundation:material:163> * 9
+[endercore:slabsandstone_to_sandstone](Sandstone) <minecraft:sandstone:0> * 1 conflicts with [noname](Red Sandstone) <minecraft:red_sandstone:0> * 1
+[extrautils2:shortcut_stick](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Bamboo) <biomesoplenty:bamboo:0> * 16
+[extrautils2:shortcut_stick](Stick) <minecraft:stick:0> * 16 conflicts with [noname](River Cane) <biomesoplenty:plant_1:5> * 16
+[extrautils2:shortcut_stick](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Weedwood Stick) <thebetweenlands:items_misc:20> * 16
+[extrautils2:shortcut_stick](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[extrautils2:shortcut_stick](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Ancient Wood Rod) <naturesaura:ancient_stick:0> * 16
+[roots:wildwood_pressure_plate](Wildwood Pressure Plate) <roots:wildwood_pressure_plate:0> * 1 conflicts with [noname](Item Rack) <tconstruct:rack:0> * 1
+[tconstruct:gadgets/stone/stone_rod](Stone Rod) <tconstruct:stone_stick:0> * 4 conflicts with [microblockcbe:stone_rod](Stone Rod) <microblockcbe:stone_rod:0> * 1
+[chiselsandbits:chisel_stone](Stone Chisel) <chiselsandbits:chisel_stone:0> * 1 conflicts with [dungeontactics:weapons/stone_cestus](Stone Cestus) <dungeontactics:stone_cestus:0> * 1
+[chiselsandbits:chisel_iron](Iron Chisel) <chiselsandbits:chisel_iron:0> * 1 conflicts with [dungeontactics:weapons/iron_cestus](Iron Cestus) <dungeontactics:iron_cestus:0> * 1
+[chiselsandbits:chisel_gold](GolChisel) <chiselsandbits:chisel_gold:0> * 1 conflicts with [dungeontactics:weapons/golden_cestus](GolCestus) <dungeontactics:golden_cestus:0> * 1
+[chiselsandbits:chisel_diamond](Diamond Chisel) <chiselsandbits:chisel_diamond:0> * 1 conflicts with [dungeontactics:weapons/diamond_cestus](Diamond Cestus) <dungeontactics:diamond_cestus:0> * 1
+[galacticraftplanets:item_basic_mars_1](Desh Stick) <galacticraftplanets:item_basic_mars:1> * 1 conflicts with [jaopca:item_stickdesh_9jooeg](Desh Rod) <jaopca:item_stickdesh:0> * 4
+[immersiveengineering:material/dust_constantan](Constantan Grit) <immersiveengineering:metal:15> * 2 conflicts with [thermalfoundation:material_3](Constantan Blend) <thermalfoundation:material:100> * 2
+[thebetweenlands:nibblestick](Nibblestick) <thebetweenlands:nibblestick:0> * 4 conflicts with [enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16
+[thebetweenlands:nibblestick](Nibblestick) <thebetweenlands:nibblestick:0> * 4 conflicts with [noname](Stick) <minecraft:stick:0> * 16
+[thebetweenlands:nibblestick](Nibblestick) <thebetweenlands:nibblestick:0> * 4 conflicts with [noname](Bamboo) <biomesoplenty:bamboo:0> * 16
+[thebetweenlands:nibblestick](Nibblestick) <thebetweenlands:nibblestick:0> * 4 conflicts with [noname](River Cane) <biomesoplenty:plant_1:5> * 16
+[thebetweenlands:nibblestick](Nibblestick) <thebetweenlands:nibblestick:0> * 4 conflicts with [noname](Weedwood Stick) <thebetweenlands:items_misc:20> * 16
+[thebetweenlands:nibblestick](Nibblestick) <thebetweenlands:nibblestick:0> * 4 conflicts with [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[thebetweenlands:nibblestick](Nibblestick) <thebetweenlands:nibblestick:0> * 4 conflicts with [noname](Ancient Wood Rod) <naturesaura:ancient_stick:0> * 16
+[immersiveposts:recipes/metal_rods/stick_uranium](Uranium Rod) <immersiveposts:metal_rods:7> * 4 conflicts with [jaopca:item_stickyellorium_7bst3e](Yellorium Rod) <jaopca:item_stickyellorium:0> * 4
+[actuallyadditions:recipes154](Pillar of Black Quartz) <actuallyadditions:block_misc:0> * 1 conflicts with [jaopca:item_stickquartzblack_fyyops](Black Quartz Rod) <jaopca:item_stickquartzblack:0> * 4
+[thermalfoundation:item_dust](Crushed Lapis) <actuallyadditions:item_dust:4> * 2 conflicts with [thermalfoundation:dye](Lapis Lazuli) <minecraft:dye:4> * 2
+[thermalfoundation:gem_dust](Crushed Diamond) <nuclearcraft:gem_dust:0> * 2 conflicts with [thermalfoundation:diamond_1](Diamond) <minecraft:diamond:0> * 2
+[thermalfoundation:redstone](Redstone) <minecraft:redstone:0> * 2 conflicts with [thermalfoundation:ingredients](Resonating Redstone Crystal) <extrautils2:ingredients:0> * 2
+[thermalfoundation:item_dust_1](Crushed Emerald) <actuallyadditions:item_dust:3> * 2 conflicts with [thermalfoundation:emerald_1](Emerald) <minecraft:emerald:0> * 2
+[thermalfoundation:gem_dust_1](Crushed Quartz) <nuclearcraft:gem_dust:2> * 2 conflicts with [thermalfoundation:quartz](Nether Quartz) <minecraft:quartz:0> * 2
+[thermalfoundation:material_97](Pulverized Coal) <thermalfoundation:material:768> * 2 conflicts with [thermalfoundation:coal_1](Coal) <minecraft:coal:0> * 2
+[thermalfoundation:material_118](Pulverized Aluminum) <thermalfoundation:material:68> * 2 conflicts with [thermalfoundation:ic2compat](Aluminum Dust) <galacticraftcore:ic2compat:0> * 2
+[thermalfoundation:material_119](Pulverized Aluminum) <thermalfoundation:material:68> * 1 conflicts with [thermalfoundation:ic2compat_1](Aluminum Dust) <galacticraftcore:ic2compat:0> * 1
+[thermalfoundation:item_dustamethyst](Amethyst Dust) <jaopca:item_dustamethyst:0> * 2 conflicts with [thermalfoundation:gem](Ender Amethyst) <biomesoplenty:gem:0> * 2
+[thermalfoundation:item_dustgarnet](Garnet Dust) <jaopca:item_dustgarnet:0> * 2 conflicts with [thermalfoundation:garnet](Garnet) <bewitchment:garnet:0> * 2
+[thermalfoundation:item_dustopal](Opal Dust) <jaopca:item_dustopal:0> * 2 conflicts with [thermalfoundation:opal](Opal) <bewitchment:opal:0> * 2
+[thermalfoundation:item_dustapatite](Apatite Dust) <jaopca:item_dustapatite:0> * 2 conflicts with [thermalfoundation:apatite](Apatite) <forestry:apatite:0> * 2
+[thermalfoundation:item_dustruby](Ruby Dust) <jaopca:item_dustruby:0> * 2 conflicts with [thermalfoundation:gem_1](Ruby) <biomesoplenty:gem:1> * 2
+[thermalfoundation:item_dustperidot](Peridot Dust) <jaopca:item_dustperidot:0> * 2 conflicts with [thermalfoundation:gem_2](Peridot) <biomesoplenty:gem:2> * 2
+[thermalfoundation:item_dusttopaz](Topaz Dust) <jaopca:item_dusttopaz:0> * 2 conflicts with [thermalfoundation:gem_3](Topaz) <biomesoplenty:gem:3> * 2
+[thermalfoundation:item_dusttanzanite](Tanzanite Dust) <jaopca:item_dusttanzanite:0> * 2 conflicts with [thermalfoundation:gem_4](Tanzanite) <biomesoplenty:gem:4> * 2
+[thermalfoundation:item_dustmalachite](Malachite Dust) <jaopca:item_dustmalachite:0> * 2 conflicts with [thermalfoundation:gem_5](Malachite) <biomesoplenty:gem:5> * 2
+[thermalfoundation:item_dustsapphire](Sapphire Dust) <jaopca:item_dustsapphire:0> * 2 conflicts with [thermalfoundation:gem_6](Sapphire) <biomesoplenty:gem:6> * 2
+[thermalfoundation:item_dustamber](Amber Dust) <jaopca:item_dustamber:0> * 2 conflicts with [thermalfoundation:gem_7](Amber) <biomesoplenty:gem:7> * 2
+[thermalfoundation:dust_3](Uranium Dust) <nuclearcraft:dust:4> * 1 conflicts with [thermalfoundation:dustyellorium_1](Yellorium Dust) <bigreactors:dustyellorium:0> * 1
+[thermalfoundation:ingot_4](Uranium Ingot) <nuclearcraft:ingot:4> * 1 conflicts with [thermalfoundation:ingotyellorium_1](Yellorium Ingot) <bigreactors:ingotyellorium:0> * 1
+[thermalfoundation:item_dust_2](Crushed Black Quartz) <actuallyadditions:item_dust:7> * 2 conflicts with [thermalfoundation:item_misc](Black Quartz) <actuallyadditions:item_misc:5> * 2
+[thermalfoundation:material_143](Certus Quartz Dust) <appliedenergistics2:material:2> * 2 conflicts with [thermalfoundation:material_144](Certus Quartz Crystal) <appliedenergistics2:material:0> * 2
+[thermalfoundation:material_143](Certus Quartz Dust) <appliedenergistics2:material:2> * 2 conflicts with [thermalfoundation:item_dustchargedcertusquartz](Charged Certus Quartz Dust) <jaopca:item_dustchargedcertusquartz:0> * 2
+[thermalfoundation:material_143](Certus Quartz Dust) <appliedenergistics2:material:2> * 2 conflicts with [thermalfoundation:material_145](Charged Certus Quartz Crystal) <appliedenergistics2:material:1> * 2
+[thermalfoundation:material_144](Certus Quartz Crystal) <appliedenergistics2:material:0> * 2 conflicts with [thermalfoundation:item_dustchargedcertusquartz](Charged Certus Quartz Dust) <jaopca:item_dustchargedcertusquartz:0> * 2
+[thermalfoundation:material_144](Certus Quartz Crystal) <appliedenergistics2:material:0> * 2 conflicts with [thermalfoundation:material_145](Charged Certus Quartz Crystal) <appliedenergistics2:material:1> * 2
+[thermalfoundation:item_dustchargedcertusquartz](Charged Certus Quartz Dust) <jaopca:item_dustchargedcertusquartz:0> * 2 conflicts with [thermalfoundation:material_145](Charged Certus Quartz Crystal) <appliedenergistics2:material:1> * 2
+[thermalfoundation:item_dustdimensionalshard](Dimensional Shard Dust) <jaopca:item_dustdimensionalshard:0> * 2 conflicts with [thermalfoundation:dimensional_shard](Dimensional Shard) <rftools:dimensional_shard:0> * 2
+[thermalfoundation:item_dustaquamarine](Aquamarine Dust) <jaopca:item_dustaquamarine:0> * 2 conflicts with [thermalfoundation:itemcraftingcomponent_5](Aquamarine) <astralsorcery:itemcraftingcomponent:0> * 2
+[thermalfoundation:item_dustvalonite](Valonite Dust) <jaopca:item_dustvalonite:0> * 2 conflicts with [thermalfoundation:items_misc_3](Valonite Shard) <thebetweenlands:items_misc:19> * 2
+[thermalfoundation:item_dustaquamiddlegem](Aqua Middle Gem Dust) <jaopca:item_dustaquamiddlegem:0> * 2 conflicts with [thermalfoundation:aqua_middle_gem](Aqua Middle Gem) <thebetweenlands:aqua_middle_gem:0> * 2
+[thermalfoundation:item_dustgreenmiddlegem](GrMiddle Gem Dust) <jaopca:item_dustgreenmiddlegem:0> * 2 conflicts with [thermalfoundation:green_middle_gem](GrMiddle Gem) <thebetweenlands:green_middle_gem:0> * 2
+[thermalfoundation:item_dustcrimsonmiddlegem](Crimson Middle Gem Dust) <jaopca:item_dustcrimsonmiddlegem:0> * 2 conflicts with [thermalfoundation:crimson_middle_gem](Crimson Middle Gem) <thebetweenlands:crimson_middle_gem:0> * 2
+[thermalfoundation:item_dustlifecrystal](Life Crystal Dust) <jaopca:item_dustlifecrystal:0> * 2 conflicts with [thermalfoundation:life_crystal](Life Crystal) <thebetweenlands:life_crystal:0> * 2
+[thermalfoundation:item_dustscabyst](Scabyst Dust) <jaopca:item_dustscabyst:0> * 2 conflicts with [thermalfoundation:items_misc_4](Scabyst) <thebetweenlands:items_misc:39> * 2
+[thermalfoundation:item_dustenderbiotite](Ender Biotite Dust) <jaopca:item_dustenderbiotite:0> * 2 conflicts with [thermalfoundation:biotite](Ender Biotite) <quark:biotite:0> * 2
+[enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Bamboo) <biomesoplenty:bamboo:0> * 16
+[enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [noname](River Cane) <biomesoplenty:plant_1:5> * 16
+[enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Weedwood Stick) <thebetweenlands:items_misc:20> * 16
+[enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[enderio:tweak_stick_from_wood](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Ancient Wood Rod) <naturesaura:ancient_stick:0> * 16
+[noname](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Bamboo) <biomesoplenty:bamboo:0> * 16
+[noname](Stick) <minecraft:stick:0> * 16 conflicts with [noname](River Cane) <biomesoplenty:plant_1:5> * 16
+[noname](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Weedwood Stick) <thebetweenlands:items_misc:20> * 16
+[noname](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[noname](Stick) <minecraft:stick:0> * 16 conflicts with [noname](Ancient Wood Rod) <naturesaura:ancient_stick:0> * 16
+[noname](Bamboo) <biomesoplenty:bamboo:0> * 16 conflicts with [noname](River Cane) <biomesoplenty:plant_1:5> * 16
+[noname](Bamboo) <biomesoplenty:bamboo:0> * 16 conflicts with [noname](Weedwood Stick) <thebetweenlands:items_misc:20> * 16
+[noname](Bamboo) <biomesoplenty:bamboo:0> * 16 conflicts with [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[noname](Bamboo) <biomesoplenty:bamboo:0> * 16 conflicts with [noname](Ancient Wood Rod) <naturesaura:ancient_stick:0> * 16
+[noname](River Cane) <biomesoplenty:plant_1:5> * 16 conflicts with [noname](Weedwood Stick) <thebetweenlands:items_misc:20> * 16
+[noname](River Cane) <biomesoplenty:plant_1:5> * 16 conflicts with [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[noname](River Cane) <biomesoplenty:plant_1:5> * 16 conflicts with [noname](Ancient Wood Rod) <naturesaura:ancient_stick:0> * 16
+[noname](Weedwood Stick) <thebetweenlands:items_misc:20> * 16 conflicts with [noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16
+[noname](Weedwood Stick) <thebetweenlands:items_misc:20> * 16 conflicts with [noname](Ancient Wood Rod) <naturesaura:ancient_stick:0> * 16
+[noname](Skyroot Stick) <aether_legacy:skyroot_stick:0> * 16 conflicts with [noname](Ancient Wood Rod) <naturesaura:ancient_stick:0> * 16
+[minecraft:stone_brick_slab](Stone Bricks Slab) <minecraft:stone_slab:5> * 6 conflicts with [quark:stonebrick_mossy_slab](Mossy Stone Brick Slab) <quark:stonebrick_mossy_slab:0> * 6
+[iceandfire:silver_sword](Silver Sword) <iceandfire:silver_sword:0> * 1 conflicts with [bewitchment:equipment/tool/silver_sword](Silver Sword) <bewitchment:silver_sword:0> * 1
+[iceandfire:silver_sword](Silver Sword) <iceandfire:silver_sword:0> * 1 conflicts with [dungeontactics:weapons/silver_sword](Silver Sword) <dungeontactics:silver_sword:0> * 1
+[iceandfire:silver_sword](Silver Sword) <iceandfire:silver_sword:0> * 1 conflicts with [thermalfoundation:tool.sword_silver](Silver Sword) <thermalfoundation:tool.sword_silver:0> * 1
+[iceandfire:silver_spade](Silver Shovel) <iceandfire:silver_shovel:0> * 1 conflicts with [bewitchment:equipment/tool/silver_shovel](Silver Shovel) <bewitchment:silver_shovel:0> * 1
+[iceandfire:silver_spade](Silver Shovel) <iceandfire:silver_shovel:0> * 1 conflicts with [dungeontactics:tools/silver_shovel](Silver Shovel) <dungeontactics:silver_shovel:0> * 1
+[iceandfire:silver_spade](Silver Shovel) <iceandfire:silver_shovel:0> * 1 conflicts with [thermalfoundation:tool.shovel_silver](Silver Shovel) <thermalfoundation:tool.shovel_silver:0> * 1
+[bewitchment:equipment/tool/silver_sword](Silver Sword) <bewitchment:silver_sword:0> * 1 conflicts with [dungeontactics:weapons/silver_sword](Silver Sword) <dungeontactics:silver_sword:0> * 1
+[bewitchment:equipment/tool/silver_sword](Silver Sword) <bewitchment:silver_sword:0> * 1 conflicts with [thermalfoundation:tool.sword_silver](Silver Sword) <thermalfoundation:tool.sword_silver:0> * 1
+[bewitchment:equipment/tool/silver_shovel](Silver Shovel) <bewitchment:silver_shovel:0> * 1 conflicts with [dungeontactics:tools/silver_shovel](Silver Shovel) <dungeontactics:silver_shovel:0> * 1
+[bewitchment:equipment/tool/silver_shovel](Silver Shovel) <bewitchment:silver_shovel:0> * 1 conflicts with [thermalfoundation:tool.shovel_silver](Silver Shovel) <thermalfoundation:tool.shovel_silver:0> * 1
+[bewitchment:candle/white_candle](White Candle) <bewitchment:white_candle:0> * 1 conflicts with [quark:candle](White Candle) <quark:candle:0> * 2
+[dungeontactics:weapons/steel_sword](Steel Sword) <dungeontactics:steel_sword:0> * 1 conflicts with [thermalfoundation:tool.sword_steel](Steel Sword) <thermalfoundation:tool.sword_steel:0> * 1
+[dungeontactics:weapons/silver_sword](Silver Sword) <dungeontactics:silver_sword:0> * 1 conflicts with [thermalfoundation:tool.sword_silver](Silver Sword) <thermalfoundation:tool.sword_silver:0> * 1
+[dungeontactics:tools/steel_shovel](Steel Shovel) <dungeontactics:steel_shovel:0> * 1 conflicts with [thermalfoundation:tool.shovel_steel](Steel Shovel) <thermalfoundation:tool.shovel_steel:0> * 1
+[dungeontactics:tools/silver_shovel](Silver Shovel) <dungeontactics:silver_shovel:0> * 1 conflicts with [thermalfoundation:tool.shovel_silver](Silver Shovel) <thermalfoundation:tool.shovel_silver:0> * 1
+[galacticraftcore:food_3](Can of Food) <galacticraftcore:food:3> * 1 conflicts with [galacticraftcore:basic_item_18](Can of Food) <galacticraftcore:basic_item:18> * 1
+[galacticraftcore:food_2](Can of Food) <galacticraftcore:food:2> * 1 conflicts with [galacticraftcore:basic_item_17](Can of Food) <galacticraftcore:basic_item:17> * 1
+[galacticraftcore:food_1](Can of Food) <galacticraftcore:food:1> * 1 conflicts with [galacticraftcore:basic_item_16](Can of Food) <galacticraftcore:basic_item:16> * 1
+[galacticraftcore:food_0](Can of Food) <galacticraftcore:food:0> * 1 conflicts with [galacticraftcore:basic_item_15](Can of Food) <galacticraftcore:basic_item:15> * 1
+[mekanismtools:bronzesword](Bronze Sword) <mekanismtools:bronzesword:0> * 1 conflicts with [thermalfoundation:tool.sword_bronze](Bronze Sword) <thermalfoundation:tool.sword_bronze:0> * 1
+[mekanismtools:bronzeshovel](Bronze Shovel) <mekanismtools:bronzeshovel:0> * 1 conflicts with [thermalfoundation:tool.shovel_bronze](Bronze Shovel) <thermalfoundation:tool.shovel_bronze:0> * 1
+[buildcrafttransport:pipe_wood_item_colorless](WooTransport Pipe) <buildcrafttransport:pipe_wood_item:0> * 8 conflicts with [buildcrafttransport:pipe_wood_item_white](§zWhite WooTransport Pipe) <buildcrafttransport:pipe_wood_item:1> * 8
+[buildcrafttransport:pipe_cobble_item_colorless](Cobblestone Transport Pipe) <buildcrafttransport:pipe_cobble_item:0> * 8 conflicts with [buildcrafttransport:pipe_cobble_item_white](§zWhite Cobblestone Transport Pipe) <buildcrafttransport:pipe_cobble_item:1> * 8
+[buildcrafttransport:pipe_stone_item_colorless](Stone Transport Pipe) <buildcrafttransport:pipe_stone_item:0> * 8 conflicts with [buildcrafttransport:pipe_stone_item_white](§zWhite Stone Transport Pipe) <buildcrafttransport:pipe_stone_item:1> * 8
+[buildcrafttransport:pipe_quartz_item_colorless](Quartz Transport Pipe) <buildcrafttransport:pipe_quartz_item:0> * 8 conflicts with [buildcrafttransport:pipe_quartz_item_white](§zWhite Quartz Transport Pipe) <buildcrafttransport:pipe_quartz_item:1> * 8
+[buildcrafttransport:pipe_iron_item_colorless](Iron Transport Pipe) <buildcrafttransport:pipe_iron_item:0> * 8 conflicts with [buildcrafttransport:pipe_iron_item_white](§zWhite Iron Transport Pipe) <buildcrafttransport:pipe_iron_item:1> * 8
+[buildcrafttransport:pipe_gold_item_colorless](GolTransport Pipe) <buildcrafttransport:pipe_gold_item:0> * 8 conflicts with [buildcrafttransport:pipe_gold_item_white](§zWhite GolTransport Pipe) <buildcrafttransport:pipe_gold_item:1> * 8
+[buildcrafttransport:pipe_clay_item_colorless](Clay Transport Pipe) <buildcrafttransport:pipe_clay_item:0> * 8 conflicts with [buildcrafttransport:pipe_clay_item_white](§zWhite Clay Transport Pipe) <buildcrafttransport:pipe_clay_item:1> * 8
+[buildcrafttransport:pipe_sandstone_item_colorless](Sandstone Transport Pipe) <buildcrafttransport:pipe_sandstone_item:0> * 8 conflicts with [buildcrafttransport:pipe_sandstone_item_white](§zWhite Sandstone Transport Pipe) <buildcrafttransport:pipe_sandstone_item:1> * 8
+[buildcrafttransport:pipe_void_item_colorless](Void Transport Pipe) <buildcrafttransport:pipe_void_item:0> * 8 conflicts with [buildcrafttransport:pipe_void_item_white](§zWhite Void Transport Pipe) <buildcrafttransport:pipe_void_item:1> * 8
+[buildcrafttransport:pipe_obsidian_item_colorless](Obsidian Transport Pipe) <buildcrafttransport:pipe_obsidian_item:0> * 8 conflicts with [buildcrafttransport:pipe_obsidian_item_white](§zWhite Obsidian Transport Pipe) <buildcrafttransport:pipe_obsidian_item:1> * 8
+[buildcrafttransport:pipe_diamond_item_colorless](Diamond Transport Pipe) <buildcrafttransport:pipe_diamond_item:0> * 8 conflicts with [buildcrafttransport:pipe_diamond_item_white](§zWhite Diamond Transport Pipe) <buildcrafttransport:pipe_diamond_item:1> * 8
+[buildcrafttransport:pipe_lapis_item_colorless](Lazuli Transport Pipe) <buildcrafttransport:pipe_lapis_item:0> * 8 conflicts with [buildcrafttransport:pipe_lapis_item_white](§zWhite Lazuli Transport Pipe) <buildcrafttransport:pipe_lapis_item:1> * 8
+[buildcrafttransport:pipe_daizuli_item_colorless](Daizuli Transport Pipe) <buildcrafttransport:pipe_daizuli_item:0> * 8 conflicts with [buildcrafttransport:pipe_daizuli_item_white](§zWhite Daizuli Transport Pipe) <buildcrafttransport:pipe_daizuli_item:1> * 8
+[buildcrafttransport:pipe_diamond_wood_item_colorless](WooDiamond Transport Pipe) <buildcrafttransport:pipe_diamond_wood_item:0> * 8 conflicts with [buildcrafttransport:pipe_diamond_wood_item_white](§zWhite WooDiamond Transport Pipe) <buildcrafttransport:pipe_diamond_wood_item:1> * 8
+[buildcrafttransport:pipe_stripes_item_colorless](Stripes Transport Pipe) <buildcrafttransport:pipe_stripes_item:0> * 8 conflicts with [buildcrafttransport:pipe_stripes_item_white](§zWhite Stripes Transport Pipe) <buildcrafttransport:pipe_stripes_item:1> * 8
+[buildcraftcompat:pipe_item_propolis_colorless](Apiarist's Pipe) <buildcraftcompat:pipe_item_propolis:0> * 8 conflicts with [buildcraftcompat:pipe_item_propolis_white](§zWhite Apiarist's Pipe) <buildcraftcompat:pipe_item_propolis:1> * 8
+[tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [tconstruct:common/slime/purple/congealed](Congealed Slime Block) <tconstruct:slime_congealed:2> * 1
+[tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [tconstruct:common/slime/blood/congealed](Congealed Bloodblock) <tconstruct:slime_congealed:3> * 1
+[tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [tconstruct:common/slime/blue/congealed](Congealed Slime Block) <tconstruct:slime_congealed:1> * 1
+[tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [tconstruct:common/slime/green/congealed](Congealed Slime Block) <tconstruct:slime_congealed:0> * 1
+[tconstruct:common/slime/pink/congealed](Congealed Slime Block) <tconstruct:slime_congealed:5> * 1 conflicts with [tconstruct:common/slime/magma/congealed](Congealed Slime Block) <tconstruct:slime_congealed:4> * 1
+[agricraft:crop_sticks](Crop Sticks) <agricraft:crop_sticks:0> * 4 conflicts with [biomesoplenty:bamboo_thatching](Bamboo Thatching) <biomesoplenty:bamboo_thatching:0> * 1
+[inventorypets:meta_pet_zzz](Meta Pet) <inventorypets:meta_pet:10> * 1 conflicts with [inventorypets:meta_pet_aoe](Meta Pet) <inventorypets:meta_pet:20> * 1
+[inventorypets:meta_pet_zzz](Meta Pet) <inventorypets:meta_pet:10> * 1 conflicts with [inventorypets:meta_pet_fan](Meta Pet) <inventorypets:meta_pet:30> * 1
+[inventorypets:meta_pet_zzz](Meta Pet) <inventorypets:meta_pet:10> * 1 conflicts with [inventorypets:meta_pet_mob](Meta Pet) <inventorypets:meta_pet:40> * 1
+[inventorypets:meta_pet_zzz](Meta Pet) <inventorypets:meta_pet:10> * 1 conflicts with [inventorypets:meta_pet_youtuber](item.inventorypets_meta_pet.80.name) <inventorypets:meta_pet:80> * 1
+[inventorypets:meta_pet_zzz](Meta Pet) <inventorypets:meta_pet:10> * 1 conflicts with [inventorypets:meta_pet_peaceful](Meta Pet) <inventorypets:meta_pet:50> * 1
+[inventorypets:meta_pet_zzz](Meta Pet) <inventorypets:meta_pet:10> * 1 conflicts with [inventorypets:meta_pet_special](Meta Pet) <inventorypets:meta_pet:60> * 1
+[inventorypets:meta_pet_zzz](Meta Pet) <inventorypets:meta_pet:10> * 1 conflicts with [inventorypets:meta_pet_utility](Meta Pet) <inventorypets:meta_pet:70> * 1
+[jaopca:item_dustsmallyellorium_dg1w6m](Small Pile of Yellorium Dust) <jaopca:item_dustsmallyellorium:0> * 4 conflicts with [unidict:dustsmalluranium_x4_shape.   a](Small Pile of Uranium Dust) <jaopca:item_dustsmalluranium:0> * 4
+[minecraft:white_stained_glass_pane](White Stained Glass Pane) <minecraft:stained_glass_pane:0> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[mysticalworld:charred_wall](Charred Wall) <mysticalworld:charred_wall:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[twilightforest:wood/darkwood_trapdoor](Darkwood Trapdoor) <twilightforest:dark_trapdoor:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[twilightforest:wood/sort_trapdoor](Sortingwood Trapdoor) <twilightforest:sort_trapdoor:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[twilightforest:wood/mine_trapdoor](Minewood Trapdoor) <twilightforest:mine_trapdoor:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[twilightforest:wood/time_trapdoor](Timewood Trapdoor) <twilightforest:time_trapdoor:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[twilightforest:wood/trans_trapdoor](Transwood Trapdoor) <twilightforest:trans_trapdoor:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[twilightforest:wood/canopy_trapdoor](Canopy Trapdoor) <twilightforest:canopy_trapdoor:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[twilightforest:wood/mangrove_trapdoor](Mangrove Trapdoor) <twilightforest:mangrove_trapdoor:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[twilightforest:wood/twilight_oak_trapdoor](Twilight Oak Trapdoor) <twilightforest:twilight_oak_trapdoor:0> * 6 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[tconstruct:gadgets/slimeboots/green](Slime Boots) <tconstruct:slime_boots:0> * 1 conflicts with [tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1
+[tconstruct:gadgets/slimeboots/blood](Congealed Blood Boots) <tconstruct:slime_boots:3> * 1 conflicts with [tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1
+[tconstruct:gadgets/slimeboots/purple](Slime Boots) <tconstruct:slime_boots:2> * 1 conflicts with [tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1
+[tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1 conflicts with [tconstruct:gadgets/slimeboots/blue](Slime Boots) <tconstruct:slime_boots:1> * 1
+[tconstruct:gadgets/slimeboots/fallback](Slime Boots) <tconstruct:slime_boots:5> * 1 conflicts with [tconstruct:gadgets/slimeboots/magma](Slime Boots) <tconstruct:slime_boots:4> * 1
+[aether_legacy:yellow_cape](Yellow Cape) <aether_legacy:yellow_cape:0> * 1 conflicts with [malisisdoors:curtain_yellow](Yellow Curtain) <malisisdoors:curtain_yellow:0> * 3
+[aether_legacy:white_cape](White Cape) <aether_legacy:white_cape:0> * 1 conflicts with [malisisdoors:curtain_white](White Curtain) <malisisdoors:curtain_white:0> * 3
+[aether_legacy:red_cape](Red Cape) <aether_legacy:red_cape:0> * 1 conflicts with [malisisdoors:curtain_red](Red Curtain) <malisisdoors:curtain_red:0> * 3
+[aether_legacy:blue_cape](Blue Cape) <aether_legacy:blue_cape:0> * 1 conflicts with [malisisdoors:curtain_blue](Blue Curtain) <malisisdoors:curtain_blue:0> * 3
+[iceandfire:silver_hoe](Silver Hoe) <iceandfire:silver_hoe:0> * 1 conflicts with [bewitchment:equipment/tool/silver_hoe](Silver Hoe) <bewitchment:silver_hoe:0> * 1
+[iceandfire:silver_hoe](Silver Hoe) <iceandfire:silver_hoe:0> * 1 conflicts with [dungeontactics:tools/silver_hoe_left](Silver Hoe) <dungeontactics:silver_hoe:0> * 1
+[iceandfire:silver_hoe](Silver Hoe) <iceandfire:silver_hoe:0> * 1 conflicts with [thermalfoundation:tool.hoe_silver](Silver Hoe) <thermalfoundation:tool.hoe_silver:0> * 1
+[iceandfire:silver_helmet](Silver Helmet) <iceandfire:armor_silver_metal_helmet:0> * 1 conflicts with [bewitchment:equipment/armor/silver_helmet](Silver Helmet) <bewitchment:silver_helmet:0> * 1
+[iceandfire:silver_helmet](Silver Helmet) <iceandfire:armor_silver_metal_helmet:0> * 1 conflicts with [dungeontactics:armour/silver_helmet](Silver Helmet) <dungeontactics:silver_helmet:0> * 1
+[iceandfire:silver_helmet](Silver Helmet) <iceandfire:armor_silver_metal_helmet:0> * 1 conflicts with [thermalfoundation:armor.helmet_silver](Silver Helmet) <thermalfoundation:armor.helmet_silver:0> * 1
+[iceandfire:silver_boots](Silver Boots) <iceandfire:armor_silver_metal_boots:0> * 1 conflicts with [bewitchment:equipment/armor/silver_boots](Silver Boots) <bewitchment:silver_boots:0> * 1
+[iceandfire:silver_boots](Silver Boots) <iceandfire:armor_silver_metal_boots:0> * 1 conflicts with [dungeontactics:armour/silver_boots](Silver Boots) <dungeontactics:silver_boots:0> * 1
+[iceandfire:silver_boots](Silver Boots) <iceandfire:armor_silver_metal_boots:0> * 1 conflicts with [thermalfoundation:armor.boots_silver](Silver Boots) <thermalfoundation:armor.boots_silver:0> * 1
+[iceandfire:silver_axe](Silver Axe) <iceandfire:silver_axe:0> * 1 conflicts with [bewitchment:equipment/tool/silver_axe](Silver Axe) <bewitchment:silver_axe:0> * 1
+[iceandfire:silver_axe](Silver Axe) <iceandfire:silver_axe:0> * 1 conflicts with [dungeontactics:tools/silver_axe_left](Silver Axe) <dungeontactics:silver_axe:0> * 1
+[iceandfire:silver_axe](Silver Axe) <iceandfire:silver_axe:0> * 1 conflicts with [thermalfoundation:tool.axe_silver](Silver Axe) <thermalfoundation:tool.axe_silver:0> * 1
+[bewitchment:equipment/tool/silver_hoe](Silver Hoe) <bewitchment:silver_hoe:0> * 1 conflicts with [dungeontactics:tools/silver_hoe_left](Silver Hoe) <dungeontactics:silver_hoe:0> * 1
+[bewitchment:equipment/tool/silver_hoe](Silver Hoe) <bewitchment:silver_hoe:0> * 1 conflicts with [thermalfoundation:tool.hoe_silver](Silver Hoe) <thermalfoundation:tool.hoe_silver:0> * 1
+[bewitchment:equipment/tool/silver_axe](Silver Axe) <bewitchment:silver_axe:0> * 1 conflicts with [dungeontactics:tools/silver_axe_left](Silver Axe) <dungeontactics:silver_axe:0> * 1
+[bewitchment:equipment/tool/silver_axe](Silver Axe) <bewitchment:silver_axe:0> * 1 conflicts with [thermalfoundation:tool.axe_silver](Silver Axe) <thermalfoundation:tool.axe_silver:0> * 1
+[bewitchment:equipment/armor/silver_helmet](Silver Helmet) <bewitchment:silver_helmet:0> * 1 conflicts with [dungeontactics:armour/silver_helmet](Silver Helmet) <dungeontactics:silver_helmet:0> * 1
+[bewitchment:equipment/armor/silver_helmet](Silver Helmet) <bewitchment:silver_helmet:0> * 1 conflicts with [thermalfoundation:armor.helmet_silver](Silver Helmet) <thermalfoundation:armor.helmet_silver:0> * 1
+[bewitchment:equipment/armor/silver_boots](Silver Boots) <bewitchment:silver_boots:0> * 1 conflicts with [dungeontactics:armour/silver_boots](Silver Boots) <dungeontactics:silver_boots:0> * 1
+[bewitchment:equipment/armor/silver_boots](Silver Boots) <bewitchment:silver_boots:0> * 1 conflicts with [thermalfoundation:armor.boots_silver](Silver Boots) <thermalfoundation:armor.boots_silver:0> * 1
+[bewitchment:elder_trapdoor](Elder Trapdoor) <bewitchment:elder_trapdoor:0> * 2 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[bewitchment:dragons_blood_trapdoor](Dragon's Blood Trapdoor) <bewitchment:dragons_blood_trapdoor:0> * 2 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[bewitchment:cypress_trapdoor](Cypress Trapdoor) <bewitchment:cypress_trapdoor:0> * 2 conflicts with [quark:trapdoor](WooTrapdoor) <minecraft:trapdoor:0> * 6
+[dungeontactics:tools/steel_hoe_left](Steel Hoe) <dungeontactics:steel_hoe:0> * 1 conflicts with [thermalfoundation:tool.hoe_steel](Steel Hoe) <thermalfoundation:tool.hoe_steel:0> * 1
+[dungeontactics:tools/steel_axe_left](Steel Axe) <dungeontactics:steel_axe:0> * 1 conflicts with [thermalfoundation:tool.axe_steel](Steel Axe) <thermalfoundation:tool.axe_steel:0> * 1
+[dungeontactics:tools/silver_hoe_left](Silver Hoe) <dungeontactics:silver_hoe:0> * 1 conflicts with [thermalfoundation:tool.hoe_silver](Silver Hoe) <thermalfoundation:tool.hoe_silver:0> * 1
+[dungeontactics:tools/silver_axe_left](Silver Axe) <dungeontactics:silver_axe:0> * 1 conflicts with [thermalfoundation:tool.axe_silver](Silver Axe) <thermalfoundation:tool.axe_silver:0> * 1
+[dungeontactics:armour/steel_helmet](Steel Helmet) <dungeontactics:steel_helmet:0> * 1 conflicts with [thermalfoundation:armor.helmet_steel](Steel Helmet) <thermalfoundation:armor.helmet_steel:0> * 1
+[dungeontactics:armour/steel_boots](Steel Boots) <dungeontactics:steel_boots:0> * 1 conflicts with [thermalfoundation:armor.boots_steel](Steel Boots) <thermalfoundation:armor.boots_steel:0> * 1
+[dungeontactics:armour/silver_helmet](Silver Helmet) <dungeontactics:silver_helmet:0> * 1 conflicts with [thermalfoundation:armor.helmet_silver](Silver Helmet) <thermalfoundation:armor.helmet_silver:0> * 1
+[dungeontactics:armour/silver_boots](Silver Boots) <dungeontactics:silver_boots:0> * 1 conflicts with [thermalfoundation:armor.boots_silver](Silver Boots) <thermalfoundation:armor.boots_silver:0> * 1
+[malisisdoors:trapdoor_spruce](Spruce Trapdoor) <malisisdoors:trapdoor_spruce:0> * 1 conflicts with [quark:spruce_trapdoor](Spruce Trapdoor) <quark:spruce_trapdoor:0> * 6
+[malisisdoors:trapdoor_jungle](Jungle Trapdoor) <malisisdoors:trapdoor_jungle:0> * 1 conflicts with [quark:jungle_trapdoor](Jungle Trapdoor) <quark:jungle_trapdoor:0> * 6
+[malisisdoors:trapdoor_dark_oak](Dark Oak Trapdoor) <malisisdoors:trapdoor_dark_oak:0> * 1 conflicts with [quark:dark_oak_trapdoor](Dark Oak Trapdoor) <quark:dark_oak_trapdoor:0> * 6
+[malisisdoors:trapdoor_birch](Birch Trapdoor) <malisisdoors:trapdoor_birch:0> * 1 conflicts with [quark:birch_trapdoor](Birch Trapdoor) <quark:birch_trapdoor:0> * 6
+[malisisdoors:trapdoor_acacia](Acacia Trapdoor) <malisisdoors:trapdoor_acacia:0> * 1 conflicts with [quark:acacia_trapdoor](Acacia Trapdoor) <quark:acacia_trapdoor:0> * 6
+[malisisdoors:jail_door](Jail Door) <malisisdoors:jail_door:0> * 3 conflicts with [mcwdoors:jail_door](Jail Door) <mcwdoors:jail_door:0> * 1
+[mekanismtools:bronzehoe](Bronze Hoe) <mekanismtools:bronzehoe:0> * 1 conflicts with [thermalfoundation:tool.hoe_bronze](Bronze Hoe) <thermalfoundation:tool.hoe_bronze:0> * 1
+[mekanismtools:bronzehelmet](Bronze Helmet) <mekanismtools:bronzehelmet:0> * 1 conflicts with [thermalfoundation:armor.helmet_bronze](Bronze Helmet) <thermalfoundation:armor.helmet_bronze:0> * 1
+[mekanismtools:bronzeboots](Bronze Boots) <mekanismtools:bronzeboots:0> * 1 conflicts with [thermalfoundation:armor.boots_bronze](Bronze Boots) <thermalfoundation:armor.boots_bronze:0> * 1
+[mekanismtools:bronzeaxe](Bronze Axe) <mekanismtools:bronzeaxe:0> * 1 conflicts with [thermalfoundation:tool.axe_bronze](Bronze Axe) <thermalfoundation:tool.axe_bronze:0> * 1
+[thebetweenlands:silt_glass_pane](Silt Glass Pane) <thebetweenlands:silt_glass_pane:0> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glassbubble](Glass Pane) <chisel:glasspane:0> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/chinese](Glass Pane) <chisel:glasspane:1> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/japanese](Glass Pane) <chisel:glasspane:2> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glassdungeon](Glass Pane) <chisel:glasspane:3> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glasslight](Glass Pane) <chisel:glasspane:4> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glassnoborder](Glass Pane) <chisel:glasspane:5> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glass-ornatesteel](Glass Pane) <chisel:glasspane:6> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glass-screen](Glass Pane) <chisel:glasspane:7> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glassshale](Glass Pane) <chisel:glasspane:8> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glass-steelframe](Glass Pane) <chisel:glasspane:9> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glassstone](Glass Pane) <chisel:glasspane:10> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glassstreak](Glass Pane) <chisel:glasspane:11> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glass-thickgrid](Glass Pane) <chisel:glasspane:12> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/terrain-glass-thingrid](Glass Pane) <chisel:glasspane:13> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/a1-glasswindow-ironfencemodern](Glass Pane) <chisel:glasspane:14> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/chrono](Glass Pane) <chisel:glasspane:15> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/chinese2](Glass Pane) <chisel:glasspane1:0> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[chisel:glass/japanese2](Glass Pane) <chisel:glasspane1:1> * 16 conflicts with [enderio:compatibility_glass_pane](Glass Pane) <minecraft:glass_pane:0> * 16
+[enderio:self_resetting_lever_300_seconds](Self-resetting Lever (5 Minutes)) <enderio:block_self_resetting_lever300:0> * 1 conflicts with [enderio:self_resetting_lever_300_seconds_inverted](Inverted Self-resetting Lever (5 Minutes)) <enderio:block_self_resetting_lever300i:0> * 1
+[enderio:gear_just_to_be_sure](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <appliedenergistics2:material:40> * 1
+[enderio:gear_just_to_be_sure](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[enderio:gear_just_to_be_sure](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[enderio:gear_better_save_than_sorry](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <appliedenergistics2:material:40> * 1
+[enderio:gear_better_save_than_sorry](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[enderio:gear_better_save_than_sorry](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[noname](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[noname](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[noname](WooGear) <enderio:item_material:9> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[noname](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[noname](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[noname](WooGear) <enderio:item_material:9> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[minecraft:stone_brick_stairs](Stone Brick Stairs) <minecraft:stone_brick_stairs:0> * 8 conflicts with [quark:stonebrick_mossy_stairs](Mossy Stone Brick Stairs) <quark:stonebrick_mossy_stairs:0> * 8
+[minecraft:slime](GrSlime Block) <minecraft:slime:0> * 1 conflicts with [tconstruct:common/slime/pink/slimeblock](Slime Block) <tconstruct:slime:5> * 1
+[minecraft:slime](GrSlime Block) <minecraft:slime:0> * 1 conflicts with [tconstruct:common/slime/purple/slimeblock](Slime Block) <tconstruct:slime:2> * 1
+[minecraft:slime](GrSlime Block) <minecraft:slime:0> * 1 conflicts with [tconstruct:common/slime/blood/slimeblock](Blood Slime Block) <tconstruct:slime:3> * 1
+[minecraft:slime](GrSlime Block) <minecraft:slime:0> * 1 conflicts with [tconstruct:common/slime/blue/slimeblock](Slime Block) <tconstruct:slime:1> * 1
+[minecraft:slime](GrSlime Block) <minecraft:slime:0> * 1 conflicts with [tconstruct:common/slime/magma/slimeblock](Slime Block) <tconstruct:slime:4> * 1
+[minecraft:ladder](Ladder) <minecraft:ladder:0> * 3 conflicts with [aether_legacy_addon:skyroot_ladder](Skyroot Ladder) <aether_legacy:skyroot_ladder:0> * 3
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[extrautils2:shortcut_chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[extrautils2:largist_chest](Slightly-Larger Chest) <extrautils2:largishchest:0> * 1 conflicts with [mcwfurnitures:cabinet_door](Cabinet Door) <mcwfurnitures:cabinet_door:0> * 1
+[appliedenergistics2:misc/grindstone_woodengear](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [buildcraftcore:gear_wood](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[appliedenergistics2:misc/grindstone_woodengear](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [thermalfoundation:material_59](WooGear) <thermalfoundation:material:22> * 1
+[appliedenergistics2:misc/grindstone_woodengear](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [enderio:gear_wood](WooGear) <thermalfoundation:material:22> * 1
+[appliedenergistics2:misc/grindstone_woodengear](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[appliedenergistics2:misc/grindstone_woodengear](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[roots:wood_knife](WooKnife) <roots:wood_knife:0> * 1 conflicts with [dungeontactics:weapons/wooden_cutlass_right](WooCutlass) <dungeontactics:wooden_cutlass:0> * 1
+[roots:stone_knife](Stone Knife) <roots:stone_knife:0> * 1 conflicts with [dungeontactics:weapons/stone_cutlass_right](Stone Cutlass) <dungeontactics:stone_cutlass:0> * 1
+[roots:iron_knife](Iron Knife) <roots:iron_knife:0> * 1 conflicts with [dungeontactics:weapons/iron_cutlass_right](Iron Cutlass) <dungeontactics:iron_cutlass:0> * 1
+[roots:gold_knife](GolKnife) <roots:gold_knife:0> * 1 conflicts with [dungeontactics:weapons/golden_cutlass_right](GolCutlass) <dungeontactics:golden_cutlass:0> * 1
+[roots:diamond_knife](Diamond Knife) <roots:diamond_knife:0> * 1 conflicts with [dungeontactics:weapons/diamond_cutlass_right](Diamond Cutlass) <dungeontactics:diamond_cutlass:0> * 1
+[mysticalworld:silver_pickaxe](Silver Pickaxe) <mysticalworld:silver_pickaxe:0> * 1 conflicts with [iceandfire:silver_pickaxe](Silver Pickaxe) <iceandfire:silver_pickaxe:0> * 1
+[mysticalworld:silver_pickaxe](Silver Pickaxe) <mysticalworld:silver_pickaxe:0> * 1 conflicts with [bewitchment:equipment/tool/silver_pickaxe](Silver Pickaxe) <bewitchment:silver_pickaxe:0> * 1
+[mysticalworld:silver_pickaxe](Silver Pickaxe) <mysticalworld:silver_pickaxe:0> * 1 conflicts with [dungeontactics:tools/silver_pick](Silver Pickaxe) <dungeontactics:silver_pickaxe:0> * 1
+[mysticalworld:silver_pickaxe](Silver Pickaxe) <mysticalworld:silver_pickaxe:0> * 1 conflicts with [thermalfoundation:tool.pickaxe_silver](Silver Pickaxe) <thermalfoundation:tool.pickaxe_silver:0> * 1
+[mysticalworld:silver_knife](Silver Knife) <mysticalworld:silver_knife:0> * 1 conflicts with [dungeontactics:weapons/silver_cutlass_right](Silver Cutlass) <dungeontactics:silver_cutlass:0> * 1
+[mysticalworld:copper_pickaxe](Copper Pickaxe) <mysticalworld:copper_pickaxe:0> * 1 conflicts with [thermalfoundation:tool.pickaxe_copper](Copper Pickaxe) <thermalfoundation:tool.pickaxe_copper:0> * 1
+[tconstruct:gadgets/slimesling/green](Slimesling) <tconstruct:slimesling:0> * 1 conflicts with [tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1
+[tconstruct:gadgets/slimesling/blood](Congealed Bloodsling) <tconstruct:slimesling:3> * 1 conflicts with [tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1
+[tconstruct:gadgets/slimesling/purple](Slimesling) <tconstruct:slimesling:2> * 1 conflicts with [tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1
+[tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1 conflicts with [tconstruct:gadgets/slimesling/blue](Slimesling) <tconstruct:slimesling:1> * 1
+[tconstruct:gadgets/slimesling/fallback](Slimesling) <tconstruct:slimesling:5> * 1 conflicts with [tconstruct:gadgets/slimesling/magma](Slimesling) <tconstruct:slimesling:4> * 1
+[aether_legacy:iron_ring](Iron Ring) <aether_legacy:iron_ring:0> * 1 conflicts with [unidict:geariron_x1_shape. a a a a ](Iron Gear) <thermalfoundation:material:24> * 1
+[aether_legacy:gold_ring](GolRing) <aether_legacy:golden_ring:0> * 1 conflicts with [unidict:geargold_x1_shape. a a a a ](Gold Gear) <thermalfoundation:material:25> * 1
+[iceandfire:silver_pickaxe](Silver Pickaxe) <iceandfire:silver_pickaxe:0> * 1 conflicts with [bewitchment:equipment/tool/silver_pickaxe](Silver Pickaxe) <bewitchment:silver_pickaxe:0> * 1
+[iceandfire:silver_pickaxe](Silver Pickaxe) <iceandfire:silver_pickaxe:0> * 1 conflicts with [dungeontactics:tools/silver_pick](Silver Pickaxe) <dungeontactics:silver_pickaxe:0> * 1
+[iceandfire:silver_pickaxe](Silver Pickaxe) <iceandfire:silver_pickaxe:0> * 1 conflicts with [thermalfoundation:tool.pickaxe_silver](Silver Pickaxe) <thermalfoundation:tool.pickaxe_silver:0> * 1
+[iceandfire:silver_leggings](Silver Leggings) <iceandfire:armor_silver_metal_leggings:0> * 1 conflicts with [bewitchment:equipment/armor/silver_leggings](Silver Leggings) <bewitchment:silver_leggings:0> * 1
+[iceandfire:silver_leggings](Silver Leggings) <iceandfire:armor_silver_metal_leggings:0> * 1 conflicts with [dungeontactics:armour/silver_leggings](Silver Leggings) <dungeontactics:silver_leggings:0> * 1
+[iceandfire:silver_leggings](Silver Leggings) <iceandfire:armor_silver_metal_leggings:0> * 1 conflicts with [thermalfoundation:armor.legs_silver](Silver Leggings) <thermalfoundation:armor.legs_silver:0> * 1
+[iceandfire:silver_ingot](Silver Ingot) <iceandfire:silver_ingot:0> * 1 conflicts with [dungeontactics:misc/silver_ingot_from_nuggets](Silver Ingot) <dungeontactics:silver_ingot:0> * 1
+[iceandfire:silver_chestplate](Silver Chestplate) <iceandfire:armor_silver_metal_chestplate:0> * 1 conflicts with [bewitchment:equipment/armor/silver_chestplate](Silver Chestplate) <bewitchment:silver_chestplate:0> * 1
+[iceandfire:silver_chestplate](Silver Chestplate) <iceandfire:armor_silver_metal_chestplate:0> * 1 conflicts with [dungeontactics:armour/silver_chestplate](Silver Chestplate) <dungeontactics:silver_chestplate:0> * 1
+[iceandfire:silver_chestplate](Silver Chestplate) <iceandfire:armor_silver_metal_chestplate:0> * 1 conflicts with [thermalfoundation:armor.plate_silver](Silver Chestplate) <thermalfoundation:armor.plate_silver:0> * 1
+[iceandfire:silver_block](Silver Block) <iceandfire:silver_block:0> * 1 conflicts with [dungeontactics:misc/silver_block](Silver Block) <dungeontactics:silver_block:0> * 1
+[iceandfire:chain_link](Iron Chain Link) <iceandfire:chain_link:0> * 1 conflicts with [dungeontactics:misc/ring_iron](Iron Ring) <dungeontactics:iron_ring:0> * 1
+[iceandfire:chain_link](Iron Chain Link) <iceandfire:chain_link:0> * 1 conflicts with [opencomputers:material41](Disk Platter) <opencomputers:material:12> * 1
+[bewitchment:equipment/tool/silver_pickaxe](Silver Pickaxe) <bewitchment:silver_pickaxe:0> * 1 conflicts with [dungeontactics:tools/silver_pick](Silver Pickaxe) <dungeontactics:silver_pickaxe:0> * 1
+[bewitchment:equipment/tool/silver_pickaxe](Silver Pickaxe) <bewitchment:silver_pickaxe:0> * 1 conflicts with [thermalfoundation:tool.pickaxe_silver](Silver Pickaxe) <thermalfoundation:tool.pickaxe_silver:0> * 1
+[bewitchment:equipment/armor/silver_leggings](Silver Leggings) <bewitchment:silver_leggings:0> * 1 conflicts with [dungeontactics:armour/silver_leggings](Silver Leggings) <dungeontactics:silver_leggings:0> * 1
+[bewitchment:equipment/armor/silver_leggings](Silver Leggings) <bewitchment:silver_leggings:0> * 1 conflicts with [thermalfoundation:armor.legs_silver](Silver Leggings) <thermalfoundation:armor.legs_silver:0> * 1
+[bewitchment:equipment/armor/silver_chestplate](Silver Chestplate) <bewitchment:silver_chestplate:0> * 1 conflicts with [dungeontactics:armour/silver_chestplate](Silver Chestplate) <dungeontactics:silver_chestplate:0> * 1
+[bewitchment:equipment/armor/silver_chestplate](Silver Chestplate) <bewitchment:silver_chestplate:0> * 1 conflicts with [thermalfoundation:armor.plate_silver](Silver Chestplate) <thermalfoundation:armor.plate_silver:0> * 1
+[bewitchment:block_of_amethyst](Block of Amethyst) <bewitchment:block_of_amethyst:0> * 1 conflicts with [biomesoplenty:amethyst_block](Block of Amethyst) <biomesoplenty:gem_block:0> * 1
+[bibliocraft:compass](Compass) <bibliocraft:compass:0> * 1 conflicts with [randomthings:goldencompass](GolCompass) <randomthings:goldencompass:0> * 1
+[buildcraftcore:gear_wood](Wood Gear) <buildcraftcore:gear_wood:0> * 1 conflicts with [thermalfoundation:material_59](WooGear) <thermalfoundation:material:22> * 1
+[buildcraftcore:gear_wood](Wood Gear) <buildcraftcore:gear_wood:0> * 1 conflicts with [enderio:gear_wood](WooGear) <thermalfoundation:material:22> * 1
+[buildcraftcore:gear_wood](Wood Gear) <buildcraftcore:gear_wood:0> * 1 conflicts with [noname](WooGear) <appliedenergistics2:material:40> * 1
+[buildcraftcore:gear_wood](Wood Gear) <buildcraftcore:gear_wood:0> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[buildcraftcore:gear_stone](Stone Gear) <buildcraftcore:gear_stone:0> * 1 conflicts with [enderio:gear_stone_upgrade](Stone Gear) <thermalfoundation:material:23> * 1
+[buildcraftcore:gear_stone](Stone Gear) <buildcraftcore:gear_stone:0> * 1 conflicts with [noname](Stone Compound Gear) <enderio:item_material:10> * 1
+[biomesoplenty:sapphire_block](Block of Sapphire) <biomesoplenty:gem_block:6> * 1 conflicts with [iceandfire:sapphire_block](Sapphire Block) <iceandfire:sapphire_block:0> * 1
+[doggytalents:wool_collar](Wool Collar) <doggytalents:wool_collar:0> * 1 conflicts with [quark:rope](Rope Coil) <quark:rope:0> * 2
+[doggytalents:dog_bath](Dog Bath) <doggytalents:dog_bath:0> * 1 conflicts with [quark:iron_plate_1](Rusty Iron Plate) <quark:iron_plate:1> * 24
+[dungeontactics:tools/steel_pick](Steel Pickaxe) <dungeontactics:steel_pickaxe:0> * 1 conflicts with [thermalfoundation:tool.pickaxe_steel](Steel Pickaxe) <thermalfoundation:tool.pickaxe_steel:0> * 1
+[dungeontactics:tools/silver_pick](Silver Pickaxe) <dungeontactics:silver_pickaxe:0> * 1 conflicts with [thermalfoundation:tool.pickaxe_silver](Silver Pickaxe) <thermalfoundation:tool.pickaxe_silver:0> * 1
+[dungeontactics:misc/steel_block](Steel Block) <dungeontactics:steel_block:0> * 1 conflicts with [bigreactors:block_steel](Steel Block) <bigreactors:blocksteel:0> * 1
+[dungeontactics:misc/ring_iron](Iron Ring) <dungeontactics:iron_ring:0> * 1 conflicts with [opencomputers:material41](Disk Platter) <opencomputers:material:12> * 1
+[dungeontactics:armour/steel_leggings](Steel Leggings) <dungeontactics:steel_leggings:0> * 1 conflicts with [thermalfoundation:armor.legs_steel](Steel Leggings) <thermalfoundation:armor.legs_steel:0> * 1
+[dungeontactics:armour/steel_chestplate](Steel Chestplate) <dungeontactics:steel_chestplate:0> * 1 conflicts with [thermalfoundation:armor.plate_steel](Steel Chestplate) <thermalfoundation:armor.plate_steel:0> * 1
+[dungeontactics:armour/silver_leggings](Silver Leggings) <dungeontactics:silver_leggings:0> * 1 conflicts with [thermalfoundation:armor.legs_silver](Silver Leggings) <thermalfoundation:armor.legs_silver:0> * 1
+[dungeontactics:armour/silver_chestplate](Silver Chestplate) <dungeontactics:silver_chestplate:0> * 1 conflicts with [thermalfoundation:armor.plate_silver](Silver Chestplate) <thermalfoundation:armor.plate_silver:0> * 1
+[mekanism:basicblock_5](Steel Block) <mekanism:basicblock:5> * 1 conflicts with [dungeontactics:misc/steel_block](Steel Block) <dungeontactics:steel_block:0> * 1
+[mekanism:basicblock_5](Steel Block) <mekanism:basicblock:5> * 1 conflicts with [bigreactors:block_steel](Steel Block) <bigreactors:blocksteel:0> * 1
+[mekanism:basicblock_5](Steel Block) <mekanism:basicblock:5> * 1 conflicts with [unidict:blocksteel_x1_shape.aaaaaaaaa](Block of Steel) <thermalfoundation:storage_alloy:0> * 1
+[mekanism:basicblock_3](Charcoal Block) <mekanism:basicblock:3> * 1 conflicts with [chisel:charcoal](Block of Charcoal) <chisel:block_charcoal2:1> * 1
+[mekanism:basicblock_3](Charcoal Block) <mekanism:basicblock:3> * 1 conflicts with [actuallyadditions:recipes121](Block of Charcoal) <actuallyadditions:block_misc:5> * 1
+[mekanism:basicblock_3](Charcoal Block) <mekanism:basicblock:3> * 1 conflicts with [thermalfoundation:storage_resource](Block of Charcoal) <thermalfoundation:storage_resource:0> * 1
+[mekanism:basicblock_3](Charcoal Block) <mekanism:basicblock:3> * 1 conflicts with [forestry:charcoal_block](Block of Charcoal) <forestry:charcoal:0> * 1
+[mekanism:basicblock_13](Tin Block) <mekanism:basicblock:13> * 1 conflicts with [unidict:blocktin_x1_shape.aaaaaaaaa](Block of Tin) <thermalfoundation:storage:1> * 1
+[mekanism:basicblock_12](Copper Block) <mekanism:basicblock:12> * 1 conflicts with [unidict:blockcopper_x1_shape.aaaaaaaaa](Block of Copper) <thermalfoundation:storage:0> * 1
+[mekanism:basicblock_1](Bronze Block) <mekanism:basicblock:1> * 1 conflicts with [unidict:blockbronze_x1_shape.aaaaaaaaa](Block of Bronze) <thermalfoundation:storage_alloy:3> * 1
+[immersiveengineering:stone_decoration/cokeblock](Block of Coal Coke) <immersiveengineering:stone_decoration:3> * 1 conflicts with [thermalfoundation:storage_resource_1](Block of Coal Coke) <thermalfoundation:storage_resource:1> * 1
+[littletiles:recipeadvanced_0](Advanced Recipe) <littletiles:recipeadvanced:0> * 5 conflicts with [rftoolsdim:empty_dimension_tab](Empty Dimension Tab) <rftoolsdim:empty_dimension_tab:0> * 1
+[littletiles:ltcoloredblock_stone](Colored Block Stone) <littletiles:ltcoloredblock2:2> * 9 conflicts with [littletiles:ltcoloredblock_6](Colored Block Bordered) <littletiles:ltcoloredblock:6> * 9
+[littletiles:ltcoloredblock_gravel](Colored Block Gravel) <littletiles:ltcoloredblock2:0> * 9 conflicts with [littletiles:ltcoloredblock_4](Colored Block Grainy Low) <littletiles:ltcoloredblock:4> * 9
+[littletiles:ltcoloredblock_13](Colored WooPlank) <littletiles:ltcoloredblock:13> * 8 conflicts with [quark:stained_planks](White Stained Planks) <quark:stained_planks:0> * 8
+[malisisdoors:rusty_ladder](Rusty Ladder) <malisisdoors:rustyladder:0> * 2 conflicts with [zawa:steel_bars](Steel Bars) <zawa:steel_bars:0> * 12
+[malisisdoors:rusty_ladder](Rusty Ladder) <malisisdoors:rustyladder:0> * 2 conflicts with [quark:iron_ladder](Iron Ladder) <quark:iron_ladder:0> * 16
+[mekanismtools:bronzepickaxe](Bronze Pickaxe) <mekanismtools:bronzepickaxe:0> * 1 conflicts with [thermalfoundation:tool.pickaxe_bronze](Bronze Pickaxe) <thermalfoundation:tool.pickaxe_bronze:0> * 1
+[mekanismtools:bronzeleggings](Bronze Leggings) <mekanismtools:bronzeleggings:0> * 1 conflicts with [thermalfoundation:armor.legs_bronze](Bronze Leggings) <thermalfoundation:armor.legs_bronze:0> * 1
+[mekanismtools:bronzechestplate](Bronze Chestplate) <mekanismtools:bronzechestplate:0> * 1 conflicts with [thermalfoundation:armor.plate_bronze](Bronze Chestplate) <thermalfoundation:armor.plate_bronze:0> * 1
+[openblocks:scaffolding_0](Scaffolding) <openblocks:scaffolding:0> * 8 conflicts with [randomthings:blockofsticks_normal](Block of Sticks) <randomthings:blockofsticks:0> * 16
+[randomthings:soundbox](Sound Box) <randomthings:soundbox:0> * 1 conflicts with [quark:stained_planks_11](Blue Stained Planks) <quark:stained_planks:11> * 8
+[randomthings:quartzlamp](Quartz Lamp) <randomthings:quartzlamp:0> * 1 conflicts with [charm:variable_redstone_lamp](Variable Redstone Lamp) <charm:variable_redstone_lamp:0> * 1
+[zawa:steel_bars](Steel Bars) <zawa:steel_bars:0> * 12 conflicts with [quark:iron_ladder](Iron Ladder) <quark:iron_ladder:0> * 16
+[thebetweenlands:scabyst_block](Block of Scabyst) <thebetweenlands:scabyst_block:0> * 1 conflicts with [jaopca:block_blockscabyst_ikci48](Block of Scabyst) <jaopca:block_blockscabyst:0> * 1
+[thaumcraft:fleshtoblock](Block of Flesh) <thaumcraft:flesh_block:0> * 1 conflicts with [charm:rotten_flesh_block](RotFlesh Block) <charm:rotten_flesh_block:0> * 1
+[chisel:charcoal](Block of Charcoal) <chisel:block_charcoal2:1> * 1 conflicts with [actuallyadditions:recipes121](Block of Charcoal) <actuallyadditions:block_misc:5> * 1
+[chisel:charcoal](Block of Charcoal) <chisel:block_charcoal2:1> * 1 conflicts with [thermalfoundation:storage_resource](Block of Charcoal) <thermalfoundation:storage_resource:0> * 1
+[chisel:charcoal](Block of Charcoal) <chisel:block_charcoal2:1> * 1 conflicts with [forestry:charcoal_block](Block of Charcoal) <forestry:charcoal:0> * 1
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[quark:chest](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[quark:custom_chest_1](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[quark:custom_chest_3](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[quark:custom_chest_5](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[quark:custom_chest_7](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Oak Chest) <minecraft:chest:0> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[quark:custom_chest_9](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[actuallyadditions:recipes121](Block of Charcoal) <actuallyadditions:block_misc:5> * 1 conflicts with [thermalfoundation:storage_resource](Block of Charcoal) <thermalfoundation:storage_resource:0> * 1
+[actuallyadditions:recipes121](Block of Charcoal) <actuallyadditions:block_misc:5> * 1 conflicts with [forestry:charcoal_block](Block of Charcoal) <forestry:charcoal:0> * 1
+[actuallyadditions:recipes243](Emerald Pickaxe) <actuallyadditions:item_pickaxe_emerald:0> * 1 conflicts with [cyclicmagic:item.emerald_pickaxe_1](Emerald Pickaxe) <cyclicmagic:emerald_pickaxe:0> * 1
+[actuallyadditions:recipes249](Emerald Chestplate) <actuallyadditions:item_chest_emerald:0> * 1 conflicts with [cyclicmagic:item.emerald_chestplate_1](Emerald Chestplate) <cyclicmagic:emerald_chestplate:0> * 1
+[actuallyadditions:recipes250](Emerald Pants) <actuallyadditions:item_pants_emerald:0> * 1 conflicts with [cyclicmagic:item.emerald_leggings_1](Emerald Leggings) <cyclicmagic:emerald_leggings:0> * 1
+[thermalfoundation:storage_8](Block of Mana Infused Metal) <thermalfoundation:storage:8> * 1 conflicts with [dungeontactics:misc/mithril_block](Mithril Block) <dungeontactics:mithril_block:0> * 1
+[thermalfoundation:storage_resource](Block of Charcoal) <thermalfoundation:storage_resource:0> * 1 conflicts with [forestry:charcoal_block](Block of Charcoal) <forestry:charcoal:0> * 1
+[thermalfoundation:material_23](Mana Infused Ingot) <thermalfoundation:material:136> * 1 conflicts with [dungeontactics:misc/mithril_ingot_from_nuggets](Mithril Ingot) <dungeontactics:mithril_ingot:0> * 1
+[thermalfoundation:material_59](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <appliedenergistics2:material:40> * 1
+[thermalfoundation:material_59](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[thermalfoundation:material_59](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[mysticalagriculture:uranium_seeds](Uranium Seeds) <mysticalagriculture:uranium_seeds:0> * 1 conflicts with [mysticalagriculture:yellorium_seeds](Yellorium Seeds) <mysticalagriculture:yellorium_seeds:0> * 1
+[nuclearcraft:tile.nuclearcraft.ingot_block.graphite_1](Graphite Block) <nuclearcraft:ingot_block:8> * 1 conflicts with [bigreactors:block_graphite](Graphite Block) <bigreactors:blockgraphite:0> * 1
+[jaopca:item_gearyellorium_g59a33](Yellorium Gear) <jaopca:item_gearyellorium:0> * 1 conflicts with [unidict:gearuranium_x1_shape. a aba a ](Uranium Gear) <jaopca:item_gearuranium:0> * 1
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[enderio:tweak_chest_from_wood](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[enderio:gear_wood](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <appliedenergistics2:material:40> * 1
+[enderio:gear_wood](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[enderio:gear_wood](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[enderio:gear_ae2_messes_things_up](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <appliedenergistics2:material:40> * 1
+[enderio:gear_ae2_messes_things_up](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[enderio:gear_ae2_messes_things_up](WooGear) <thermalfoundation:material:22> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[enderio:gear_stone](Stone Gear) <thermalfoundation:material:23> * 1 conflicts with [noname](Stone Compound Gear) <enderio:item_material:10> * 1
+[enderio:gear_stone](Stone Gear) <thermalfoundation:material:23> * 1 conflicts with [noname](Stone Gear) <buildcraftcore:gear_stone:0> * 1
+[enderio:gear_stone_upgrade](Stone Gear) <thermalfoundation:material:23> * 1 conflicts with [noname](Stone Compound Gear) <enderio:item_material:10> * 1
+[enderio:gear_stone_upgrade](Stone Gear) <thermalfoundation:material:23> * 1 conflicts with [noname](Stone Gear) <buildcraftcore:gear_stone:0> * 1
+[unidict:ingotsilver_x1_shape.aaaaaaaaa](Silver Ingot) <thermalfoundation:material:130> * 1 conflicts with [iceandfire:silver_ingot](Silver Ingot) <iceandfire:silver_ingot:0> * 1
+[unidict:ingotsilver_x1_shape.aaaaaaaaa](Silver Ingot) <thermalfoundation:material:130> * 1 conflicts with [dungeontactics:misc/silver_ingot_from_nuggets](Silver Ingot) <dungeontactics:silver_ingot:0> * 1
+[unidict:blockuranium_x1_shape.aaaaaaaaa](Block of Uranium) <immersiveengineering:storage:5> * 1 conflicts with [bigreactors:block_yellorium](Yellorium Block) <bigreactors:blockyellorium:0> * 1
+[unidict:blocksilver_x1_shape.aaaaaaaaa](Block of Silver) <thermalfoundation:storage:2> * 1 conflicts with [iceandfire:silver_block](Silver Block) <iceandfire:silver_block:0> * 1
+[unidict:blocksilver_x1_shape.aaaaaaaaa](Block of Silver) <thermalfoundation:storage:2> * 1 conflicts with [dungeontactics:misc/silver_block](Silver Block) <dungeontactics:silver_block:0> * 1
+[unidict:ingotsteel_x1_shape.aaaaaaaaa](Steel Ingot) <thermalfoundation:material:160> * 1 conflicts with [dungeontactics:misc/steel_ingot_from_nuggets](Steel Ingot) <dungeontactics:steel_ingot:0> * 1
+[unidict:blocksteel_x1_shape.aaaaaaaaa](Block of Steel) <thermalfoundation:storage_alloy:0> * 1 conflicts with [dungeontactics:misc/steel_block](Steel Block) <dungeontactics:steel_block:0> * 1
+[unidict:blocksteel_x1_shape.aaaaaaaaa](Block of Steel) <thermalfoundation:storage_alloy:0> * 1 conflicts with [bigreactors:block_steel](Steel Block) <bigreactors:blocksteel:0> * 1
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Oak Chest) <minecraft:chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Oak Trapped Chest) <minecraft:trapped_chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4 conflicts with [noname](Spruce Chest) <quark:custom_chest:0> * 4
+[noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Weedwood Chest) <thebetweenlands:weedwood_chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Birch Chest) <quark:custom_chest:1> * 4
+[noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Spruce Chest) <quark:custom_chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Jungle Chest) <quark:custom_chest:2> * 4
+[noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Birch Chest) <quark:custom_chest:1> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Acacia Chest) <quark:custom_chest:3> * 4
+[noname](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[noname](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[noname](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Jungle Chest) <quark:custom_chest:2> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Dark Oak Chest) <quark:custom_chest:4> * 4
+[noname](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[noname](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Acacia Chest) <quark:custom_chest:3> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4
+[noname](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Dark Oak Chest) <quark:custom_chest:4> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4 conflicts with [noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4
+[noname](Chest Mimic) <aether_legacy:chest_mimic:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](Skyroot Chest) <aether_legacy:skyroot_chest:0> * 4 conflicts with [noname](Shadowroot Chest) <midnight:shadowroot_chest:0> * 4
+[noname](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[noname](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[noname](WooGear) <enderio:item_material:9> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[noname](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](WooGear) <enderio:item_material:9> * 1
+[noname](WooGear) <appliedenergistics2:material:40> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[noname](WooGear) <enderio:item_material:9> * 1 conflicts with [noname](Wood Gear) <buildcraftcore:gear_wood:0> * 1
+[noname](Stone Compound Gear) <enderio:item_material:10> * 1 conflicts with [noname](Stone Gear) <buildcraftcore:gear_stone:0> * 1
+[noname](Stone Compound Gear) <enderio:item_material:10> * 1 conflicts with [noname](Stone Gear) <buildcraftcore:gear_stone:0> * 1

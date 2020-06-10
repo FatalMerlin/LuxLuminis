@@ -490,21 +490,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
   },
   {
-    "name": "dungeontactics:wither_web",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:string",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 100.0,
-    "2chance0": 100.0,
-    "3chance0": 100.0,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
     "name": "quark:roots_white_flower",
     "meta": 0,
     "length": 1,
@@ -11275,21 +11260,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
-    "name": "dungeontactics:endlapis_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:dye",
-    "meta0": 4,
-    "0chance0": 602.95,
-    "1chance0": 801.0,
-    "2chance0": 1051.125,
-    "3chance0": 1328.975,
-    "0pair0": "{\n  \"left\": 4,\n  \"right\": 8\n}",
-    "1pair0": "{\n  \"left\": 4,\n  \"right\": 16\n}",
-    "2pair0": "{\n  \"left\": 4,\n  \"right\": 24\n}",
-    "3pair0": "{\n  \"left\": 4,\n  \"right\": 32\n}"
-  },
-  {
     "name": "thebetweenlands:bulb_capped_mushroom_cap",
     "meta": 0,
     "length": 1,
@@ -11303,21 +11273,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "immersiveengineering:ore",
-    "meta": 3,
-    "length": 1,
-    "name0": "dungeontactics:silver_cluster",
-    "meta0": 0,
-    "0chance0": 0.025,
-    "1chance0": 0.0,
-    "2chance0": 0.0,
-    "3chance0": 0.0,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}"
   },
   {
     "name": "midnight:bulb_fungus_hat",
@@ -11403,21 +11358,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "dungeontactics:nethergold_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "dungeontactics:gold_cluster",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.0,
-    "2chance0": 175.175,
-    "3chance0": 220.65001,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "actuallyadditions:block_colored_lamp_on",
@@ -17450,21 +17390,6 @@
     "3pair566": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "dungeontactics:enddiamond_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:diamond",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.5,
-    "2chance0": 176.77501,
-    "3chance0": 218.95001,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "thermalfoundation:ore",
     "meta": 2,
     "length": 1,
@@ -17628,21 +17553,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "dungeontactics:stonequartz_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:quartz",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.95,
-    "2chance0": 173.025,
-    "3chance0": 221.05,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "botania:enchantedsoil",
@@ -19238,21 +19148,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "dungeontactics:mithril_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "dungeontactics:mithril_cluster",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.95,
-    "2chance0": 173.325,
-    "3chance0": 221.6,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "actuallyadditions:block_colored_lamp_on",
@@ -21435,21 +21330,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
   },
   {
-    "name": "immersiveengineering:ore",
-    "meta": 1,
-    "length": 1,
-    "name0": "dungeontactics:aluminium_cluster",
-    "meta0": 0,
-    "0chance0": 0.025,
-    "1chance0": 0.0,
-    "2chance0": 0.0,
-    "3chance0": 0.0,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}"
-  },
-  {
     "name": "actuallyadditions:block_colored_lamp_on",
     "meta": 3,
     "length": 1,
@@ -21670,21 +21550,6 @@
     "3pair10": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "dungeontactics:silver_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "dungeontactics:silver_cluster",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 135.05,
-    "2chance0": 172.9,
-    "3chance0": 217.97499,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "thebetweenlands:nesting_block_bones",
     "meta": 0,
     "length": 1,
@@ -21875,21 +21740,6 @@
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "immersiveengineering:ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "dungeontactics:copper_cluster",
-    "meta0": 0,
-    "0chance0": 0.025,
-    "1chance0": 0.0,
-    "2chance0": 0.0,
-    "3chance0": 0.0,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}"
-  },
-  {
     "name": "cyclicmagic:nether_iron_ore",
     "meta": 0,
     "length": 1,
@@ -21963,21 +21813,6 @@
     "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "immersiveengineering:ore",
-    "meta": 4,
-    "length": 1,
-    "name0": "dungeontactics:nickel_cluster",
-    "meta0": 0,
-    "0chance0": 0.025,
-    "1chance0": 0.0,
-    "2chance0": 0.0,
-    "3chance0": 0.0,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}"
   },
   {
     "name": "twilightforest:magic_log_core",
@@ -23068,21 +22903,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "immersiveengineering:ore",
-    "meta": 2,
-    "length": 1,
-    "name0": "dungeontactics:lead_cluster",
-    "meta0": 0,
-    "0chance0": 0.025,
-    "1chance0": 0.0,
-    "2chance0": 0.0,
-    "3chance0": 0.0,
-    "0pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "2pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}",
-    "3pair0": "{\n  \"left\": 0,\n  \"right\": 0\n}"
   },
   {
     "name": "biomesoplenty:flesh",
@@ -28198,5 +28018,95 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
+  },
+  {
+    "name": "immersiveintelligence:ore",
+    "meta": 5,
+    "length": 1,
+    "name0": "immersiveintelligence:material_gem",
+    "meta0": 1,
+    "0chance0": 250.65,
+    "1chance0": 499.24997,
+    "2chance0": 749.25,
+    "3chance0": 1001.50006,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 3\n}",
+    "1pair0": "{\n  \"left\": 4,\n  \"right\": 6\n}",
+    "2pair0": "{\n  \"left\": 6,\n  \"right\": 9\n}",
+    "3pair0": "{\n  \"left\": 8,\n  \"right\": 12\n}"
+  },
+  {
+    "name": "immersiveintelligence:ore",
+    "meta": 4,
+    "length": 1,
+    "name0": "immersiveintelligence:material_gem",
+    "meta0": 0,
+    "0chance0": 149.95,
+    "1chance0": 300.7,
+    "2chance0": 452.40002,
+    "3chance0": 602.89996,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
+    "2pair0": "{\n  \"left\": 3,\n  \"right\": 6\n}",
+    "3pair0": "{\n  \"left\": 4,\n  \"right\": 8\n}"
+  },
+  {
+    "name": "dungeontactics:stonequartz_ore",
+    "meta": 0,
+    "length": 1,
+    "name0": "minecraft:quartz",
+    "meta0": 0,
+    "0chance0": 100.0,
+    "1chance0": 133.9,
+    "2chance0": 176.125,
+    "3chance0": 220.275,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
+  },
+  {
+    "name": "dungeontactics:wither_web",
+    "meta": 0,
+    "length": 1,
+    "name0": "minecraft:string",
+    "meta0": 0,
+    "0chance0": 100.0,
+    "1chance0": 100.0,
+    "2chance0": 100.0,
+    "3chance0": 100.0,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
+  },
+  {
+    "name": "dungeontactics:enddiamond_ore",
+    "meta": 0,
+    "length": 1,
+    "name0": "minecraft:diamond",
+    "meta0": 0,
+    "0chance0": 100.0,
+    "1chance0": 134.825,
+    "2chance0": 173.72499,
+    "3chance0": 219.225,
+    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
+    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
+    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
+    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
+  },
+  {
+    "name": "dungeontactics:endlapis_ore",
+    "meta": 0,
+    "length": 1,
+    "name0": "minecraft:dye",
+    "meta0": 4,
+    "0chance0": 603.05,
+    "1chance0": 801.25,
+    "2chance0": 1049.925,
+    "3chance0": 1304.75,
+    "0pair0": "{\n  \"left\": 4,\n  \"right\": 8\n}",
+    "1pair0": "{\n  \"left\": 4,\n  \"right\": 16\n}",
+    "2pair0": "{\n  \"left\": 4,\n  \"right\": 24\n}",
+    "3pair0": "{\n  \"left\": 4,\n  \"right\": 32\n}"
   }
 ]

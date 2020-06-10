@@ -153,6 +153,8 @@ immersiveengineering:sticky
 immersiveengineering:stunned
 immersiveengineering:concretefeet
 immersiveengineering:flashed
+immersiveintelligence:suppression
+immersiveintelligence:broken_armor
 bewitchment:suns_blessing
 bewitchment:geomancy
 bewitchment:frozen

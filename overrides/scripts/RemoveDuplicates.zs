@@ -178,28 +178,16 @@ for item in removeOnlyList {
 }
 
 # overlapping chest recipes
-var chestRecipe = [
-    [<ore:logWood>, <ore:logWood>, <ore:logWood>],
-    [<ore:logWood>, null, <ore:logWood>],
-    [<ore:logWood>, <ore:logWood>, <ore:logWood>]
-];
-
-var removeChests = [
-    <aether_legacy:chest_mimic>,
-    <aether_legacy:skyroot_chest>,
-    <quark:custom_chest:0>,
-    <quark:custom_chest:1>,
-    <quark:custom_chest:2>,
-    <quark:custom_chest:3>,
-    <quark:custom_chest:4>,
-    <thebetweenlands:weedwood_chest:0>,
-    <midnight:shadowroot_chest:0>,
-    <minecraft:trapped_chest:0>,
-] as IItemStack[];
-
-for item in removeChests {
-    recipes.removeShaped(item * 4, chestRecipe);
-}
+recipes.removeShaped(<aether_legacy:chest_mimic> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<aether_legacy:skyroot_chest> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<quark:custom_chest:0> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<quark:custom_chest:1> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<quark:custom_chest:2> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<quark:custom_chest:3> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<quark:custom_chest:4> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<thebetweenlands:weedwood_chest:0> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<midnight:shadowroot_chest:0> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
+recipes.removeShaped(<minecraft:trapped_chest:0> * 4, [[<ore:logWood>, <ore:logWood>, <ore:logWood>],[<ore:logWood>, null, <ore:logWood>],[<ore:logWood>, <ore:logWood>, <ore:logWood>]]);
 
 # Shows up as "Silver Ore", but actually isn't
 <dungeontactics:mithril_ore>.displayName = "Mithril Ore";

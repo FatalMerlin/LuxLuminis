@@ -19,3 +19,7 @@ recipes.addShaped(
         [<minecraft:iron_ingot>, null, <minecraft:iron_ingot>]
     ]
 );
+
+# OpenComputers
+recipes.remove(<opencomputers:material:12>);
+recipes.addShaped(<opencomputers:material:12>, [[<ore:nuggetIron>, <ore:nuggetIron>, <ore:nuggetIron>],[<ore:nuggetIron>, null, <ore:nuggetIron>], [<ore:nuggetIron>, <ore:nuggetIron>, <ore:nuggetIron>]]);

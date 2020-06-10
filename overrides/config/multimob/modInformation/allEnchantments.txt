@@ -55,6 +55,7 @@ dungeontactics:transport
 dungeontactics:companion
 dungeontactics:sunder
 dungeontactics:rage
+dungeontactics:soulsteal
 dungeontactics:trinket_speed
 dungeontactics:trinket_jump
 dungeontactics:trinket_haste
@@ -83,11 +84,11 @@ openblocks:flim_flam
 randomthings:magnetic
 endercore:autosmelt
 endercore:xpboost
-enderio:witherarrow
 enderio:witherweapon
 enderio:soulbound
-enderio:shimmer
+enderio:witherarrow
 enderio:repellent
+enderio:shimmer
 tombstone:shadow_step
 tombstone:soulbound
 tombstone:magic_siphon

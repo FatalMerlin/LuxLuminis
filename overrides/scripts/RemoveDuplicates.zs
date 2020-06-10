@@ -1,6 +1,6 @@
 import crafttweaker.item.IItemStack;
 
-function rem(item as IItemStack) {
+function removeAndHide(item as IItemStack) {
     recipes.remove(item);
     mods.jei.JEI.hide(item);
 }
@@ -48,6 +48,8 @@ var itemList = [
     <dungeontactics:silver_pickaxe>,
     <dungeontactics:silver_shovel>,
     <dungeontactics:silver_sword>,
+    <dungeontactics:steel_block:0>,
+    <dungeontactics:silver_block:0>,
 
     # Mystical World
     <mysticalworld:silver_axe>,
@@ -75,10 +77,128 @@ var itemList = [
     <mysticalworld:copper_pickaxe>,
     <mysticalworld:copper_shovel>,
     <mysticalworld:copper_sword>,
+
+    <dungeontactics:steel_nugget>,
+    <dungeontactics:steel_ingot>,
+    <dungeontactics:silver_nugget>,
+    <dungeontactics:mithril_nugget>,
+    <dungeontactics:diamond_nugget>,
+    <dungeontactics:mithril_ingot:0>,
+    <dungeontactics:mithril_block:0>,
+
+    <inventorypets:nugget_diamond>,
+    <inventorypets:nugget_lapis>,
+    <inventorypets:nugget_emerald>,
+    <inventorypets:nugget_coal>,
+
+    <forestry:ingot_copper:0>,
+    <forestry:ingot_tin:0>,
+    <forestry:ingot_bronze>,
+
+    <nuclearcraft:ingot:4>,
+
+    <extrabitmanipulation:diamond_nugget>,
+    <agricraft:agri_nugget:1>,
+
+    <bigreactors:ingotsteel:0>,
+    <bigreactors:blocksteel:0>,
+    <bigreactors:blockyellorium:0>,
+    <bigreactors:blockgraphite:0>,
+    
+    <immersiveengineering:metal:0>,
+    <immersiveengineering:metal:1>,
+    <immersiveengineering:metal:2>,
+    <immersiveengineering:metal:3>,
+    <immersiveengineering:metal:4>,
+    <immersiveengineering:metal:5>,
+    <immersiveengineering:metal:6>,
+    <immersiveengineering:metal:7>,
+    <immersiveengineering:metal:8>,
+
+    <immersiveengineering:metal:20>,
+    <immersiveengineering:metal:21>,
+    <immersiveengineering:metal:22>,
+    <immersiveengineering:metal:23>,
+    <immersiveengineering:metal:24>,
+    <immersiveengineering:metal:26>,
+    <immersiveengineering:metal:27>,
+    <immersiveengineering:metal:28>,
+
+    <buildcraftcore:gear_stone>,
+    <buildcraftcore:gear_wood:0>,
+
+    <appliedenergistics2:material:40>,
+
+    <aether_legacy:chest_mimic:0>,
+
+    <enderio:item_material:9>,
+    <enderio:item_material:10>,
+
+    <jaopca:item_gearyellorium:0>,
+
+    <mysticalagriculture:yellorium_seeds:0>,
+
+    <forestry:charcoal:0>,
+
+    <actuallyadditions:item_pants_emerald:0>,
+    <actuallyadditions:item_chest_emerald:0>,
+    <actuallyadditions:item_pickaxe_emerald:0>,
+
+    <chisel:block_charcoal2:1>,
+
+    <mekanism:basicblock:1>,
+    <mekanism:basicblock:3>,
+    <mekanism:basicblock:5>,
+    <mekanism:basicblock:12>,
+    <mekanism:basicblock:13>,
+
+    <actuallyadditions:block_misc:5>,
+
+
 ] as IItemStack[];
 
+# Remove and hide item in JEI
 for item in itemList {
-    rem(item);
+    removeAndHide(item);
+}
+
+# TODO: add Chisel support for these blocks via ModTweaker
+# https://www.curseforge.com/minecraft/mc-mods/modtweaker
+
+var removeOnlyList = [
+    <iceandfire:sapphire_gem>,
+    <practicallogistics2:sapphire>,
+    <iceandfire:sapphire_block>,
+    <bewitchment:block_of_amethyst>,
+    <bewitchment:amethyst>,
+] as IItemStack[];
+
+for item in removeOnlyList {
+    recipes.remove(item);
+}
+
+# overlapping chest recipes
+var chestRecipe = [
+    [<ore:logWood>, <ore:logWood>, <ore:logWood>],
+    [<ore:logWood>, null, <ore:logWood>],
+    [<ore:logWood>, <ore:logWood>, <ore:logWood>]
+];
+
+var removeChests = [
+    <aether_legacy:chest_mimic>,
+    <aether_legacy:skyroot_chest>,
+    <quark:custom_chest:0>,
+    <quark:custom_chest:1>,
+    <quark:custom_chest:2>,
+    <quark:custom_chest:3>,
+    <quark:custom_chest:4>,
+    <thebetweenlands:weedwood_chest:0>,
+    <midnight:shadowroot_chest:0>,
+    <minecraft:trapped_chest:0>,
+] as IItemStack[];
+
+for item in removeChests {
+    recipes.removeShaped(item * 4, chestRecipe);
 }
 
 # Shows up as "Silver Ore", but actually isn't

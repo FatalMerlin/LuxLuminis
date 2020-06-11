@@ -20,6 +20,17 @@ recipes.addShaped(
     ]
 );
 
+recipes.remove(<mcwbridges:iron_platform>);
+recipes.addShaped(
+    "mcwbridges:iron_platform",
+    <mcwbridges:iron_platform>
+        [
+        [null, null, <minecraft:iron_ingot>],
+        [null, <minecraft:iron_ingot>, null],
+        [<minecraft:iron_ingot>, null, null]
+    ]
+)
+
 # OpenComputers
 recipes.remove(<opencomputers:material:12>);
 recipes.addShaped(<opencomputers:material:12>, [[<ore:nuggetIron>, <ore:nuggetIron>, <ore:nuggetIron>],[<ore:nuggetIron>, null, <ore:nuggetIron>], [<ore:nuggetIron>, <ore:nuggetIron>, <ore:nuggetIron>]]);

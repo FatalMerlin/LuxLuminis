@@ -78,6 +78,7 @@ var itemList = [
     <mysticalworld:copper_shovel>,
     <mysticalworld:copper_sword>,
 
+    # Dungeon Tactics
     <dungeontactics:steel_nugget>,
     <dungeontactics:steel_ingot>,
     <dungeontactics:silver_nugget>,
@@ -85,12 +86,12 @@ var itemList = [
     <dungeontactics:diamond_nugget>,
     <dungeontactics:mithril_ingot:0>,
     <dungeontactics:mithril_block:0>,
-
+    #Inventory Pets
     <inventorypets:nugget_diamond>,
     <inventorypets:nugget_lapis>,
     <inventorypets:nugget_emerald>,
     <inventorypets:nugget_coal>,
-
+    #Forestry
     <forestry:ingot_copper:0>,
     <forestry:ingot_tin:0>,
     <forestry:ingot_bronze>,
@@ -104,7 +105,7 @@ var itemList = [
     <bigreactors:blocksteel:0>,
     <bigreactors:blockyellorium:0>,
     <bigreactors:blockgraphite:0>,
-    
+    #Immersive Engineering
     <immersiveengineering:metal:0>,
     <immersiveengineering:metal:1>,
     <immersiveengineering:metal:2>,
@@ -151,8 +152,9 @@ var itemList = [
     <mekanism:basicblock:5>,
     <mekanism:basicblock:12>,
     <mekanism:basicblock:13>,
-
     <actuallyadditions:block_misc:5>,
+    <thermalfoundation:storage_resource:1>,
+    <thermalfoundation:material:802>
 
 
 ] as IItemStack[];
@@ -191,3 +193,20 @@ recipes.removeShaped(<minecraft:trapped_chest:0> * 4, [[<ore:logWood>, <ore:logW
 
 # Shows up as "Silver Ore", but actually isn't
 <dungeontactics:mithril_ore>.displayName = "Mithril Ore";
+
+
+# Debug Items left in by Modauthors
+var listDebugItemes = [
+    <immersiveintelligence:metal_device:5>,
+    <agricraft:debugger>,
+    <buildcraftlib:debugger>,
+    <gendustry:hive_spawn_debugger>,
+    <iceandfire:dragon_debug_stick>,
+    <omlib:debug_tool>,
+    <zerocore:debugtool>,
+    <opencomputers:tool:1>,
+    <opencomputers:card>
+]
+for debugger in listDebugItemes {
+    mods.jei.JEI.hide(debugger);
+}

@@ -29,7 +29,7 @@ recipes.addShaped(
         [null, <minecraft:iron_ingot>, null],
         [<minecraft:iron_ingot>, null, null]
     ]
-)
+);
 
 # OpenComputers
 recipes.remove(<opencomputers:material:12>);

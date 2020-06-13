@@ -87,8 +87,8 @@ endercore:xpboost
 enderio:witherweapon
 enderio:soulbound
 enderio:witherarrow
-enderio:repellent
 enderio:shimmer
+enderio:repellent
 tombstone:shadow_step
 tombstone:soulbound
 tombstone:magic_siphon

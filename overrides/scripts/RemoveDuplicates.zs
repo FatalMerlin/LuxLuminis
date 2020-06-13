@@ -206,7 +206,8 @@ var listDebugItemes = [
     <zerocore:debugtool>,
     <opencomputers:tool:1>,
     <opencomputers:card>
-]
+] as IItemStack[];
+
 for debugger in listDebugItemes {
     mods.jei.JEI.hide(debugger);
 }

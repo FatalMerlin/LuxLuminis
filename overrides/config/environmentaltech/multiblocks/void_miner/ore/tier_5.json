@@ -514,6 +514,196 @@
       "target": "green",
       "weight": 200,
       "id": "OD:oreEnderEssence"
+    },
+    {
+      "target": "gray",
+      "weight": 218,
+      "id": "OD:oreMeteoricIron"
+    },
+    {
+      "target": "blue",
+      "weight": 218,
+      "id": "OD:oreAquaMiddleGem"
+    },
+    {
+      "target": "red",
+      "weight": 218,
+      "id": "OD:oreCrimsonMiddleGem"
+    },
+    {
+      "target": "purple",
+      "weight": 218,
+      "id": "OD:oreZanite"
+    },
+    {
+      "target": "yellow",
+      "weight": 218,
+      "id": "OD:oreAmbrosium"
+    },
+    {
+      "target": "light_blue",
+      "weight": 218,
+      "id": "OD:oreAbyssum"
+    },
+    {
+      "target": "black",
+      "weight": 218,
+      "id": "OD:oreEezo"
+    },
+    {
+      "target": "yellow",
+      "weight": 218,
+      "id": "OD:orePalladium"
+    },
+    {
+      "target": "green",
+      "weight": 218,
+      "id": "OD:oreJauxum"
+    },
+    {
+      "target": "purple",
+      "weight": 218,
+      "id": "ore:oreOvium"
+    },
+    {
+      "target": "red",
+      "weight": 218,
+      "id": "OD:oreKarmesine"
+    },
+    {
+      "target": "white",
+      "weight": 218,
+      "id": "OD:oreVibranium"
+    },
+    {
+      "target": "green",
+      "weight": 218,
+      "id": "OD:oreBone"
+    },
+    {
+      "target": "light_blue",
+      "weight": 218,
+      "id": "OD:oreScabyst"
+    },
+    {
+      "target": "blue",
+      "weight": 218,
+      "id": "OD:oreSyrmorite"
+    },
+    {
+      "target": "green",
+      "weight": 218,
+      "id": "OD:oreGreenMiddleGem"
+    },
+    {
+      "target": "green",
+      "weight": 218,
+      "id": "OD:oreTiberium"
+    },
+    {
+      "target": "red",
+      "weight": 218,
+      "id": "OD:oreAurorium"
+    },
+    {
+      "target": "black",
+      "weight": 218,
+      "id": "OD:orePrometheum"
+    },
+    {
+      "target": "white",
+      "weight": 218,
+      "id": "OD:oreDuranite"
+    },
+    {
+      "target": "red",
+      "weight": 218,
+      "id": "OD:oreValyrium"
+    },
+    {
+      "target": "purple",
+      "weight": 218,
+      "id": "OD:oreUru"
+    },
+    {
+      "target": "orange",
+      "weight": 218,
+      "id": "OD:oreOsram"
+    },
+    {
+      "target": "orange",
+      "weight": 218,
+      "id": "OD:oreSolar"
+    },
+    {
+      "target": "black",
+      "weight": 218,
+      "id": "OD:oreTitanium"
+    },
+    {
+      "target": "black",
+      "weight": 218,
+      "id": "OD:oreDesh"
+    },
+    {
+      "target": "yellow",
+      "weight": 218,
+      "id": "OD:oreCheese"
+    },
+    {
+      "target": "pink",
+      "weight": 218,
+      "id": "OD:oreAmethyst"
+    },
+    {
+      "target": "pink",
+      "weight": 218,
+      "id": "OD:oreGravitite"
+    },
+    {
+      "target": "pink",
+      "weight": 218,
+      "id": "OD:oreValonite"
+    },
+    {
+      "target": "black",
+      "weight": 218,
+      "id": "OD:oreEnderBiotite"
+    },
+    {
+      "target": "purple",
+      "weight": 218,
+      "id": "OD:oreArchaic"
+    },
+    {
+      "target": "yellow",
+      "weight": 218,
+      "id": "OD:oreOctine"
+    },
+    {
+      "target": "blue",
+      "weight": 218,
+      "id": "OD:oreFluorite"
+    },
+    {
+      "target": "yellow",
+      "weight": 218,
+      "id": "OD:orePhosphorus"
+    },
+    {
+      "target": "gray",
+      "weight": 218,
+      "id": "OD:oreTenebrum"
+    },
+    {
+      "target": "gray",
+      "weight": 218,
+      "id": "OD:oreNagrilite"
+    },
+    {
+      "target": "black",
+      "weight": 218,
+      "id": "OD:oreEbonys"
     }
   ]
 }

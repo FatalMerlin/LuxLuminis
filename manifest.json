@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Lux Luminis",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "author": "FatalMerlin",
   "files": [
     {
@@ -390,13 +390,13 @@
       "required": true
     },
     {
-      "projectID": 356646,
-      "fileID": 2852431,
+      "projectID": 225194,
+      "fileID": 2491032,
       "required": true
     },
     {
-      "projectID": 225194,
-      "fileID": 2491032,
+      "projectID": 356646,
+      "fileID": 2852431,
       "required": true
     },
     {
@@ -425,6 +425,11 @@
       "required": true
     },
     {
+      "projectID": 300957,
+      "fileID": 2842055,
+      "required": true
+    },
+    {
       "projectID": 251389,
       "fileID": 2920817,
       "required": true
@@ -450,18 +455,13 @@
       "required": true
     },
     {
-      "projectID": 224663,
-      "fileID": 2974732,
-      "required": true
-    },
-    {
       "projectID": 298187,
       "fileID": 2928313,
       "required": true
     },
     {
-      "projectID": 233019,
-      "fileID": 2450734,
+      "projectID": 224663,
+      "fileID": 2974732,
       "required": true
     },
     {
@@ -470,8 +470,8 @@
       "required": true
     },
     {
-      "projectID": 225225,
-      "fileID": 2777004,
+      "projectID": 233019,
+      "fileID": 2450734,
       "required": true
     },
     {
@@ -480,8 +480,8 @@
       "required": true
     },
     {
-      "projectID": 255308,
-      "fileID": 2698950,
+      "projectID": 225225,
+      "fileID": 2777004,
       "required": true
     },
     {
@@ -490,13 +490,13 @@
       "required": true
     },
     {
-      "projectID": 242500,
-      "fileID": 2975801,
+      "projectID": 255308,
+      "fileID": 2698950,
       "required": true
     },
     {
-      "projectID": 223008,
-      "fileID": 2828357,
+      "projectID": 242500,
+      "fileID": 2975801,
       "required": true
     },
     {
@@ -505,8 +505,18 @@
       "required": true
     },
     {
+      "projectID": 223008,
+      "fileID": 2828357,
+      "required": true
+    },
+    {
       "projectID": 264231,
       "fileID": 2939529,
+      "required": true
+    },
+    {
+      "projectID": 282613,
+      "fileID": 2825260,
       "required": true
     },
     {
@@ -525,23 +535,23 @@
       "required": true
     },
     {
-      "projectID": 229708,
-      "fileID": 2893083,
-      "required": true
-    },
-    {
       "projectID": 282623,
       "fileID": 2922466,
       "required": true
     },
     {
-      "projectID": 235279,
-      "fileID": 2915375,
+      "projectID": 229708,
+      "fileID": 2893083,
       "required": true
     },
     {
       "projectID": 313816,
       "fileID": 2851670,
+      "required": true
+    },
+    {
+      "projectID": 235279,
+      "fileID": 2915375,
       "required": true
     },
     {
@@ -565,13 +575,13 @@
       "required": true
     },
     {
-      "projectID": 231951,
-      "fileID": 2974106,
+      "projectID": 255902,
+      "fileID": 2661187,
       "required": true
     },
     {
-      "projectID": 255902,
-      "fileID": 2661187,
+      "projectID": 231951,
+      "fileID": 2974106,
       "required": true
     },
     {
@@ -585,13 +595,13 @@
       "required": true
     },
     {
-      "projectID": 277631,
-      "fileID": 2750633,
+      "projectID": 233071,
+      "fileID": 2562139,
       "required": true
     },
     {
-      "projectID": 233071,
-      "fileID": 2562139,
+      "projectID": 277631,
+      "fileID": 2750633,
       "required": true
     },
     {
@@ -625,8 +635,8 @@
       "required": true
     },
     {
-      "projectID": 254818,
-      "fileID": 2826061,
+      "projectID": 243121,
+      "fileID": 2924091,
       "required": true
     },
     {
@@ -635,8 +645,8 @@
       "required": true
     },
     {
-      "projectID": 243121,
-      "fileID": 2924091,
+      "projectID": 254818,
+      "fileID": 2826061,
       "required": true
     },
     {
@@ -645,13 +655,13 @@
       "required": true
     },
     {
-      "projectID": 287683,
-      "fileID": 2962662,
+      "projectID": 223628,
+      "fileID": 2629023,
       "required": true
     },
     {
-      "projectID": 223628,
-      "fileID": 2629023,
+      "projectID": 287683,
+      "fileID": 2962662,
       "required": true
     },
     {
@@ -695,13 +705,13 @@
       "required": true
     },
     {
-      "projectID": 254284,
-      "fileID": 2905238,
+      "projectID": 244258,
+      "fileID": 2880863,
       "required": true
     },
     {
-      "projectID": 244258,
-      "fileID": 2880863,
+      "projectID": 254284,
+      "fileID": 2905238,
       "required": true
     },
     {
@@ -716,7 +726,7 @@
     },
     {
       "projectID": 243707,
-      "fileID": 2958495,
+      "fileID": 2981779,
       "required": true
     },
     {
@@ -730,13 +740,13 @@
       "required": true
     },
     {
-      "projectID": 250398,
-      "fileID": 2926366,
+      "projectID": 226447,
+      "fileID": 2477566,
       "required": true
     },
     {
-      "projectID": 226447,
-      "fileID": 2477566,
+      "projectID": 250398,
+      "fileID": 2926366,
       "required": true
     },
     {
@@ -775,13 +785,13 @@
       "required": true
     },
     {
-      "projectID": 250419,
-      "fileID": 2689502,
+      "projectID": 240950,
+      "fileID": 2707390,
       "required": true
     },
     {
-      "projectID": 240950,
-      "fileID": 2707390,
+      "projectID": 250419,
+      "fileID": 2689502,
       "required": true
     },
     {
@@ -790,13 +800,13 @@
       "required": true
     },
     {
-      "projectID": 239286,
-      "fileID": 2934381,
+      "projectID": 268250,
+      "fileID": 2544919,
       "required": true
     },
     {
-      "projectID": 268250,
-      "fileID": 2544919,
+      "projectID": 239286,
+      "fileID": 2934381,
       "required": true
     },
     {
@@ -810,18 +820,23 @@
       "required": true
     },
     {
-      "projectID": 307806,
-      "fileID": 2820815,
-      "required": true
-    },
-    {
       "projectID": 254334,
       "fileID": 2871957,
       "required": true
     },
     {
+      "projectID": 307806,
+      "fileID": 2820815,
+      "required": true
+    },
+    {
       "projectID": 271050,
       "fileID": 2930764,
+      "required": true
+    },
+    {
+      "projectID": 277736,
+      "fileID": 2913751,
       "required": true
     },
     {
@@ -860,13 +875,13 @@
       "required": true
     },
     {
-      "projectID": 223735,
-      "fileID": 2676866,
+      "projectID": 230976,
+      "fileID": 2463272,
       "required": true
     },
     {
-      "projectID": 230976,
-      "fileID": 2463272,
+      "projectID": 223735,
+      "fileID": 2676866,
       "required": true
     },
     {
@@ -875,13 +890,13 @@
       "required": true
     },
     {
-      "projectID": 238222,
-      "fileID": 2803400,
+      "projectID": 227639,
+      "fileID": 2818055,
       "required": true
     },
     {
-      "projectID": 227639,
-      "fileID": 2818055,
+      "projectID": 238222,
+      "fileID": 2803400,
       "required": true
     },
     {
@@ -901,7 +916,7 @@
     },
     {
       "projectID": 267193,
-      "fileID": 2811832,
+      "fileID": 2979758,
       "required": true
     },
     {
@@ -915,13 +930,13 @@
       "required": true
     },
     {
-      "projectID": 250498,
-      "fileID": 2976309,
+      "projectID": 363569,
+      "fileID": 2884962,
       "required": true
     },
     {
-      "projectID": 363569,
-      "fileID": 2884962,
+      "projectID": 250498,
+      "fileID": 2976309,
       "required": true
     },
     {
@@ -942,6 +957,11 @@
     {
       "projectID": 285612,
       "fileID": 2943191,
+      "required": true
+    },
+    {
+      "projectID": 346326,
+      "fileID": 2842054,
       "required": true
     },
     {
@@ -975,8 +995,8 @@
       "required": true
     },
     {
-      "projectID": 243298,
-      "fileID": 2704186,
+      "projectID": 228816,
+      "fileID": 2699056,
       "required": true
     },
     {
@@ -985,8 +1005,8 @@
       "required": true
     },
     {
-      "projectID": 228816,
-      "fileID": 2699056,
+      "projectID": 243298,
+      "fileID": 2704186,
       "required": true
     },
     {
@@ -995,13 +1015,13 @@
       "required": true
     },
     {
-      "projectID": 221585,
-      "fileID": 2492586,
+      "projectID": 230497,
+      "fileID": 2450900,
       "required": true
     },
     {
-      "projectID": 230497,
-      "fileID": 2450900,
+      "projectID": 221585,
+      "fileID": 2492586,
       "required": true
     },
     {
@@ -1045,18 +1065,13 @@
       "required": true
     },
     {
-      "projectID": 250577,
-      "fileID": 2648656,
-      "required": true
-    },
-    {
       "projectID": 257818,
       "fileID": 2968170,
       "required": true
     },
     {
-      "projectID": 242223,
-      "fileID": 2849567,
+      "projectID": 250577,
+      "fileID": 2648656,
       "required": true
     },
     {
@@ -1065,13 +1080,18 @@
       "required": true
     },
     {
-      "projectID": 232758,
-      "fileID": 2953029,
+      "projectID": 242223,
+      "fileID": 2849567,
       "required": true
     },
     {
       "projectID": 286230,
       "fileID": 2572528,
+      "required": true
+    },
+    {
+      "projectID": 232758,
+      "fileID": 2953029,
       "required": true
     },
     {
@@ -1085,23 +1105,13 @@
       "required": true
     },
     {
-      "projectID": 238891,
-      "fileID": 2922489,
-      "required": true
-    },
-    {
       "projectID": 223852,
       "fileID": 2952606,
       "required": true
     },
     {
-      "projectID": 231095,
-      "fileID": 2720655,
-      "required": true
-    },
-    {
-      "projectID": 256717,
-      "fileID": 2666198,
+      "projectID": 238891,
+      "fileID": 2922489,
       "required": true
     },
     {
@@ -1110,18 +1120,28 @@
       "required": true
     },
     {
+      "projectID": 256717,
+      "fileID": 2666198,
+      "required": true
+    },
+    {
+      "projectID": 231095,
+      "fileID": 2720655,
+      "required": true
+    },
+    {
       "projectID": 248370,
       "fileID": 2490058,
       "required": true
     },
     {
-      "projectID": 281791,
-      "fileID": 2534481,
+      "projectID": 302957,
+      "fileID": 2921779,
       "required": true
     },
     {
-      "projectID": 302957,
-      "fileID": 2921779,
+      "projectID": 281791,
+      "fileID": 2534481,
       "required": true
     },
     {
@@ -1155,13 +1175,13 @@
       "required": true
     },
     {
-      "projectID": 64578,
-      "fileID": 2858816,
+      "projectID": 242818,
+      "fileID": 2779848,
       "required": true
     },
     {
-      "projectID": 242818,
-      "fileID": 2779848,
+      "projectID": 64578,
+      "fileID": 2858816,
       "required": true
     },
     {
@@ -1215,8 +1235,8 @@
       "required": true
     },
     {
-      "projectID": 282940,
-      "fileID": 2924136,
+      "projectID": 61811,
+      "fileID": 2914534,
       "required": true
     },
     {
@@ -1225,8 +1245,8 @@
       "required": true
     },
     {
-      "projectID": 61811,
-      "fileID": 2914534,
+      "projectID": 282940,
+      "fileID": 2924136,
       "required": true
     },
     {
@@ -1250,13 +1270,13 @@
       "required": true
     },
     {
-      "projectID": 277938,
-      "fileID": 2904594,
+      "projectID": 275153,
+      "fileID": 2486198,
       "required": true
     },
     {
-      "projectID": 275153,
-      "fileID": 2486198,
+      "projectID": 277938,
+      "fileID": 2904594,
       "required": true
     }
   ],

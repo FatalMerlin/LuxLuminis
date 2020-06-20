@@ -11,17 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Lux Luminis",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "author": "FatalMerlin",
   "files": [
     {
       "projectID": 224472,
       "fileID": 2969118,
-      "required": true
-    },
-    {
-      "projectID": 309136,
-      "fileID": 2666556,
       "required": true
     },
     {
@@ -57,11 +52,6 @@
     {
       "projectID": 352039,
       "fileID": 2879573,
-      "required": true
-    },
-    {
-      "projectID": 282415,
-      "fileID": 2658551,
       "required": true
     },
     {
@@ -500,6 +490,11 @@
       "required": true
     },
     {
+      "projectID": 223565,
+      "fileID": 2867186,
+      "required": true
+    },
+    {
       "projectID": 318255,
       "fileID": 2747710,
       "required": true
@@ -552,6 +547,11 @@
     {
       "projectID": 235279,
       "fileID": 2915375,
+      "required": true
+    },
+    {
+      "projectID": 231382,
+      "fileID": 2867147,
       "required": true
     },
     {
@@ -667,6 +667,11 @@
     {
       "projectID": 359540,
       "fileID": 2909603,
+      "required": true
+    },
+    {
+      "projectID": 254268,
+      "fileID": 2829232,
       "required": true
     },
     {

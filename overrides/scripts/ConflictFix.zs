@@ -22,12 +22,23 @@ recipes.addShaped(
 
 recipes.remove(<mcwbridges:iron_platform>);
 recipes.addShaped(
-    "mcwbridges:iron_platform",
+    "mcwbridges_iron_platform",
     <mcwbridges:iron_platform>,
     [
         [null, null, <minecraft:iron_ingot>],
         [null, <minecraft:iron_ingot>, null],
         [<minecraft:iron_ingot>, null, null]
+    ]
+);
+
+recipes.remove(<littletiles:recipeadvanced>);
+recipes.addShaped(
+    "littletiles_recipeadvanced",
+    <littletiles:recipeadvanced> * 5,
+    [
+        [<minecraft:redstone>, <minecraft:paper>, <minecraft:redstone>],
+        [<minecraft:paper>, <minecraft:paper>, <minecraft:paper>],
+        [<minecraft:redstone>, <minecraft:paper>, <minecraft:redstone>]
     ]
 );
 
